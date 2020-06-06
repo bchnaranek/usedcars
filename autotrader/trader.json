@@ -1,0 +1,4348 @@
+[
+    {
+        "518859113": {
+            "accelerate": false,
+            "dealerConfig": {},
+            "description": {
+                "hasMore": false,
+                "label": "In very good condition, and has never had any mechanical issues. The rims are currently black, but can easily be changed/removed."
+            },
+            "features": [
+                "Cruise Control",
+                "Portable Audio Connection",
+                "Power Locks",
+                "Power Windows",
+                "Security System",
+                "Steering Wheel Controls"
+            ],
+            "fuelType": "Gasoline",
+            "hasSpecialOffer": false,
+            "id": 518859113,
+            "images": {
+                "hasVideoIcon": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "Used 2012 Ford Mustang Coupe - 518859113",
+                        "src": "//images.autotrader.com/images/2019/6/10/518/859/43651031982.518859113.IM1.MAIN.1600x1200_A.1600x1200.jpg",
+                        "title": "Used 2012 Ford Mustang Coupe"
+                    }
+                ]
+            },
+            "isHot": false,
+            "make": "Ford",
+            "makeCode": "FORD",
+            "model": "Mustang",
+            "modelCode": "MUST",
+            "owner": 72319877,
+            "ownerName": "Private Seller",
+            "priceValidUntil": "2020-06-10",
+            "pricingDetail": {
+                "callForPricing": false,
+                "ctaLink": false,
+                "dealIndicator": "Good",
+                "derived": "$10,300",
+                "first": "$10,300",
+                "incentive": 0,
+                "msrp": 0,
+                "noPriceLabel": "Contact Seller For Price",
+                "primary": 10300,
+                "salePrice": 10300,
+                "specialOffers": 0
+            },
+            "priority": "Premium",
+            "productTiles": [
+                {
+                    "cmp": "ec_pa_lgo",
+                    "cprd": "View_CERT",
+                    "epn": "autocheckps",
+                    "image": {
+                        "src": "/content/web/images/na/experian/227917.png",
+                        "title": "View AutoCheck Vehicle History"
+                    },
+                    "link": {
+                        "href": "/redirect/experian_forward.jsp?car_id=518859113&experianPS=true&TRANS=P&SID=ATCjXtS5TMz1i7iEmO",
+                        "label": "View AutoCheck Vehicle History",
+                        "offsite": true,
+                        "partner": true
+                    },
+                    "tileType": "EXPERIAN_APPENDED"
+                }
+            ],
+            "quickViewFeatures": [
+                "Alarm System",
+                "Auxiliary Audio Input",
+                "Brake Assist",
+                "Cruise Control",
+                "Keyless Entry",
+                "Power Windows",
+                "Premium Sound System",
+                "Premium Wheels",
+                "Satellite Radio",
+                "Side Air Bag",
+                "Sport",
+                "Steering Wheel Controls"
+            ],
+            "specifications": {
+                "interiorColor": {
+                    "label": "Interior Color",
+                    "value": "Black"
+                },
+                "transmission": {
+                    "label": "Transmission",
+                    "value": "Automatic"
+                },
+                "color": {
+                    "label": "Color",
+                    "value": "Silver"
+                },
+                "mpg": {
+                    "label": "MPG",
+                    "value": "19 City / 30 Highway"
+                },
+                "engine": {
+                    "label": "Engine",
+                    "value": "6-Cylinder"
+                },
+                "driveType": {
+                    "label": "Drive Type",
+                    "value": "2 wheel drive - rear"
+                },
+                "mileage": {
+                    "label": "miles",
+                    "value": "56,600"
+                }
+            },
+            "style": [
+                "Coupe"
+            ],
+            "title": "Used 2012 Ford Mustang Coupe",
+            "trim": "Coupe",
+            "type": "Used",
+            "vin": "1ZVBP8AM6C5275655",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=518859113&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50&makeCode1=FORD&modelCode1=MUST"
+            },
+            "year": 2012,
+            "zip": "30024"
+        },
+        "527926172": {
+            "accelerate": false,
+            "dealerConfig": {},
+            "description": {
+                "hasMore": true,
+                "label": "I'm the 2nd owner.  AP1 hardware. Unlimited Free Supercharging is transferable.  The car is still under warranty. Front windows are tinted. ..."
+            },
+            "features": [
+                "3rd Row Seats",
+                "Backup Camera",
+                "Bluetooth Hands-Free",
+                "Cruise Control",
+                "Heated Seats",
+                "Keyless Entry",
+                "Leather Seats",
+                "Multi-zone Climate Control",
+                "Navigation",
+                "Power Locks",
+                "Power Windows",
+                "Premium Wheels",
+                "Security System",
+                "Trailer Hitch"
+            ],
+            "fuelType": "Electric",
+            "hasSpecialOffer": false,
+            "id": 527926172,
+            "images": {
+                "hasVideoIcon": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "Used 2016 Tesla Model X 75D - 527926172",
+                        "src": "//images.autotrader.com/images/2020/5/7/527/926/43673520987.527926172.IM1.MAIN.1600x1200_A.1600x1063.jpg",
+                        "title": "Used 2016 Tesla Model X 75D"
+                    }
+                ]
+            },
+            "isHot": false,
+            "make": "Tesla",
+            "makeCode": "TESLA",
+            "model": "Model X",
+            "modelCode": "TESMODX",
+            "owner": 72452047,
+            "ownerName": "Private Seller",
+            "priceValidUntil": "2020-09-07",
+            "pricingDetail": {
+                "callForPricing": false,
+                "ctaLink": false,
+                "dealIndicator": "Great",
+                "derived": "$51,000",
+                "first": "$51,000",
+                "incentive": 0,
+                "msrp": 0,
+                "noPriceLabel": "Contact Seller For Price",
+                "primary": 51000,
+                "salePrice": 51000,
+                "specialOffers": 0
+            },
+            "priority": "Premium",
+            "productTiles": [
+                {
+                    "cmp": "ec_pa_lgo",
+                    "cprd": "View_CERT",
+                    "epn": "autocheckps",
+                    "image": {
+                        "src": "/content/web/images/na/experian/227917.png",
+                        "title": "View AutoCheck Vehicle History"
+                    },
+                    "link": {
+                        "href": "/redirect/experian_forward.jsp?car_id=527926172&experianPS=true&TRANS=P&SID=ATCg31U8AErbDPVH2Z",
+                        "label": "View AutoCheck Vehicle History",
+                        "offsite": true,
+                        "partner": true
+                    },
+                    "tileType": "EXPERIAN_APPENDED"
+                }
+            ],
+            "quickViewFeatures": [
+                "3rd-Row Seats",
+                "Alarm System",
+                "Auxiliary Audio Input",
+                "Blind Spot Alert",
+                "Bluetooth, Hands-Free",
+                "Brake Assist",
+                "Collision Warning",
+                "Cruise Control",
+                "Heated Passenger Seat",
+                "Heated Seats",
+                "Keyless Entry",
+                "Leather Seats",
+                "Leather Wrapped Steering Wheel",
+                "Navigation System",
+                "Parking assist",
+                "Power Passenger Seat",
+                "Power Windows",
+                "Premium Wheels",
+                "Rearview Camera",
+                "Side Air Bag",
+                "Steering Wheel Controls",
+                "Sunroof",
+                "Trailer Hitch"
+            ],
+            "specifications": {
+                "interiorColor": {
+                    "label": "Interior Color",
+                    "value": "Black"
+                },
+                "mileRange": {
+                    "label": "Mile Range",
+                    "value": "200 Mile Range"
+                },
+                "transmission": {
+                    "label": "Transmission",
+                    "value": "Single-Speed"
+                },
+                "color": {
+                    "label": "Color",
+                    "value": "Blue"
+                },
+                "engine": {
+                    "label": "Engine",
+                    "value": "Electric"
+                },
+                "driveType": {
+                    "label": "Drive Type",
+                    "value": "All wheel drive"
+                },
+                "mileage": {
+                    "label": "miles",
+                    "value": "38,500"
+                }
+            },
+            "style": [
+                "Sport Utility"
+            ],
+            "title": "Used 2016 Tesla Model X 75D",
+            "trim": "75D",
+            "type": "Used",
+            "vin": "5YJXCBE29GF009139",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=527926172&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50&makeCode1=TESLA&modelCode1=TESMODX"
+            },
+            "year": 2016,
+            "zip": "30092"
+        },
+        "532244764": {
+            "accelerate": false,
+            "description": {
+                "label": "New 2020 Ford Explorer"
+            },
+            "hasSpecialOffer": true,
+            "id": 532244764,
+            "images": {
+                "hasStockPhoto": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "New 2020 Ford Explorer 4WD ST - 532244764",
+                        "src": "https://images.autotrader.com/hn/c/d48587255e8c46618e89a91849215cac.jpg",
+                        "title": "New 2020 Ford Explorer 4WD ST"
+                    }
+                ]
+            },
+            "isHot": false,
+            "isNewlyListed": false,
+            "isReducedPrice": false,
+            "makeCode": "FORD",
+            "modelCode": "EXPLOR",
+            "owner": 57027721,
+            "ownerName": "Blue Ridge North Georgia Ford",
+            "phone": {
+                "linkText": "Get this seller's phone number",
+                "privateNumber": false,
+                "value": "8334869299",
+                "isVisible": true
+            },
+            "pricingDetail": {
+                "assetType": "NONE",
+                "callForPricing": true,
+                "ctaLink": false,
+                "derived": "55147",
+                "first": "$55,147.00",
+                "incentive": 0,
+                "msrp": 57139,
+                "primary": 55147,
+                "salePrice": 55147,
+                "specialOffers": 3
+            },
+            "specifications": {
+                "mileage": {
+                    "label": "miles",
+                    "value": "3"
+                }
+            },
+            "stockNumber": "N33626",
+            "title": "New 2020 Ford Explorer 4WD ST",
+            "trim": "4WD ST",
+            "type": "New",
+            "vin": "1FM5K8GCXLGA33626",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=532244764&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50"
+            },
+            "year": 0
+        },
+        "533795037": {
+            "accelerate": false,
+            "description": {
+                "label": "New 2020 Ford F150"
+            },
+            "hasSpecialOffer": true,
+            "id": 533795037,
+            "images": {
+                "hasStockPhoto": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "New 2020 Ford F150 Lariat - 533795037",
+                        "src": "https://images.autotrader.com/hn/c/ec8cdea92d764a718995bd09d69c7c82.jpg",
+                        "title": "New 2020 Ford F150 Lariat"
+                    }
+                ]
+            },
+            "isHot": false,
+            "isNewlyListed": false,
+            "isReducedPrice": false,
+            "makeCode": "FORD",
+            "modelCode": "F150PICKUP",
+            "owner": 57027721,
+            "ownerName": "Blue Ridge North Georgia Ford",
+            "phone": {
+                "linkText": "Get this seller's phone number",
+                "privateNumber": false,
+                "value": "8334869299",
+                "isVisible": true
+            },
+            "pricingDetail": {
+                "assetType": "NONE",
+                "callForPricing": true,
+                "ctaLink": false,
+                "derived": "61596",
+                "first": "$61,596.00",
+                "incentive": 0,
+                "msrp": 68783,
+                "primary": 61596,
+                "salePrice": 61596,
+                "specialOffers": 3
+            },
+            "specifications": {
+                "mileage": {
+                    "label": "miles",
+                    "value": "3"
+                }
+            },
+            "stockNumber": "N05583",
+            "title": "New 2020 Ford F150 Lariat",
+            "trim": "Lariat",
+            "type": "New",
+            "vin": "1FTEW1E48LFA05583",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=533795037&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50"
+            },
+            "year": 0
+        },
+        "536952118": {
+            "accelerate": false,
+            "description": {
+                "label": "New 2020 Ford Escape"
+            },
+            "hasSpecialOffer": true,
+            "id": 536952118,
+            "images": {
+                "hasStockPhoto": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "New 2020 Ford Escape 4WD SE - 536952118",
+                        "src": "https://images.autotrader.com/hn/c/87d1ed926a754cf3a6228c625b45aa81.jpg",
+                        "title": "New 2020 Ford Escape 4WD SE"
+                    }
+                ]
+            },
+            "isHot": false,
+            "isNewlyListed": false,
+            "isReducedPrice": false,
+            "makeCode": "FORD",
+            "modelCode": "ESCAPE",
+            "owner": 57027721,
+            "ownerName": "Blue Ridge North Georgia Ford",
+            "phone": {
+                "linkText": "Get this seller's phone number",
+                "privateNumber": false,
+                "value": "8334869299",
+                "isVisible": true
+            },
+            "pricingDetail": {
+                "assetType": "NONE",
+                "callForPricing": true,
+                "ctaLink": false,
+                "derived": "29217",
+                "first": "$29,217.00",
+                "incentive": 0,
+                "msrp": 30229,
+                "primary": 29217,
+                "salePrice": 29217,
+                "specialOffers": 3
+            },
+            "specifications": {
+                "mileage": {
+                    "label": "miles",
+                    "value": "3"
+                }
+            },
+            "stockNumber": "N67354",
+            "title": "New 2020 Ford Escape 4WD SE",
+            "trim": "4WD SE",
+            "type": "New",
+            "vin": "1FMCU9G64LUA67354",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=536952118&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50"
+            },
+            "year": 0
+        },
+        "539687000": {
+            "accelerate": false,
+            "dealerConfig": {},
+            "description": {
+                "hasMore": true,
+                "label": "3.5L V6 Engine, Third Row Seats, 7 Passenger Seating, Leather Seats, Power Front Seats, Heated Front Seats, Leather Steering Wheel Trim, Ste..."
+            },
+            "features": [
+                "3rd Row Seats",
+                "Backup Camera",
+                "Bluetooth Hands-Free",
+                "Cruise Control",
+                "Heated Seats",
+                "Keyless Entry",
+                "Leather Seats",
+                "Multi-zone Climate Control",
+                "Portable Audio Connection",
+                "Power Locks",
+                "Power Windows",
+                "Premium Audio",
+                "Premium Wheels",
+                "Security System",
+                "Steering Wheel Controls",
+                "Sunroof"
+            ],
+            "fuelType": "Gasoline",
+            "hasSpecialOffer": false,
+            "id": 539687000,
+            "images": {
+                "hasVideoIcon": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "Used 2019 Acura MDX - 539687000",
+                        "src": "//images.autotrader.com/images/2019/12/29/539/687/43665751633.539687000.IM1.MAIN.1600x1200_A.1600x1200.jpg",
+                        "title": "Used 2019 Acura MDX"
+                    }
+                ]
+            },
+            "isHot": false,
+            "make": "Acura",
+            "makeCode": "ACURA",
+            "model": "MDX",
+            "modelCode": "MDX",
+            "owner": 72593623,
+            "ownerName": "Private Seller",
+            "priceValidUntil": "2020-12-29",
+            "pricingDetail": {
+                "callForPricing": false,
+                "ctaLink": false,
+                "dealIndicator": "Great",
+                "derived": "$34,995",
+                "first": "$34,995",
+                "incentive": 0,
+                "msrp": 0,
+                "noPriceLabel": "Contact Seller For Price",
+                "primary": 34995,
+                "salePrice": 34995,
+                "specialOffers": 0
+            },
+            "priority": "Premium",
+            "productTiles": [
+                {
+                    "cmp": "ec_pa_lgo",
+                    "cprd": "View_CERT",
+                    "epn": "autocheckps",
+                    "image": {
+                        "src": "/content/web/images/na/experian/227917.png",
+                        "title": "View AutoCheck Vehicle History"
+                    },
+                    "link": {
+                        "href": "/redirect/experian_forward.jsp?car_id=539687000&experianPS=true&TRANS=P&SID=ATCJzSPO0u6eB6O8uC",
+                        "label": "View AutoCheck Vehicle History",
+                        "offsite": true,
+                        "partner": true
+                    },
+                    "tileType": "EXPERIAN_APPENDED"
+                }
+            ],
+            "quickViewFeatures": [
+                "3rd-Row Seats",
+                "Adaptive Cruise Control",
+                "Alarm System",
+                "Auxiliary Audio Input",
+                "Bluetooth, Hands-Free",
+                "Brake Assist",
+                "Collision Warning",
+                "Cruise Control",
+                "Heated Passenger Seat",
+                "Heated Seats",
+                "Keyless Entry",
+                "Lane Departure Warning",
+                "Leather Seats",
+                "Leather Wrapped Steering Wheel",
+                "Luxury",
+                "Power Passenger Seat",
+                "Power Windows",
+                "Premium Sound System",
+                "Premium Wheels",
+                "Rear Spoiler",
+                "Rearview Camera",
+                "Satellite Radio",
+                "Side Air Bag",
+                "Steering Wheel Controls",
+                "Sunroof"
+            ],
+            "specifications": {
+                "interiorColor": {
+                    "label": "Interior Color",
+                    "value": "Black"
+                },
+                "transmission": {
+                    "label": "Transmission",
+                    "value": "Automatic"
+                },
+                "color": {
+                    "label": "Color",
+                    "value": "Black"
+                },
+                "mpg": {
+                    "label": "MPG",
+                    "value": "20 City / 27 Highway"
+                },
+                "engine": {
+                    "label": "Engine",
+                    "value": "6-Cylinder"
+                },
+                "driveType": {
+                    "label": "Drive Type",
+                    "value": "2 wheel drive - front"
+                },
+                "mileage": {
+                    "label": "miles",
+                    "value": "12,000"
+                }
+            },
+            "style": [
+                "Sport Utility"
+            ],
+            "title": "Used 2019 Acura MDX",
+            "type": "Used",
+            "vin": "5J8YD3H38KL003366",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=539687000&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50&makeCode1=ACURA&modelCode1=MDX"
+            },
+            "year": 2019,
+            "zip": "30092"
+        },
+        "541196905": {
+            "accelerate": false,
+            "dealerConfig": {},
+            "description": {
+                "hasMore": true,
+                "label": "Drives like new. Still under Mazda Certified Warranty! Sharp car! Brilliant Blue Mica color changes shade in sunlight! Adaptive Cruise Contr..."
+            },
+            "features": [
+                "Backup Camera",
+                "Bluetooth Hands-Free",
+                "Cruise Control",
+                "Heated Seats",
+                "Keyless Entry",
+                "Leather Seats",
+                "Multi-zone Climate Control",
+                "Navigation",
+                "Power Locks",
+                "Power Windows",
+                "Premium Audio",
+                "Premium Wheels",
+                "Security System",
+                "Steering Wheel Controls",
+                "Sunroof"
+            ],
+            "fuelType": "Gasoline",
+            "hasSpecialOffer": false,
+            "id": 541196905,
+            "images": {
+                "hasVideoIcon": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "Used 2017 MAZDA MAZDA6 Grand Touring - 541196905",
+                        "src": "//images.autotrader.com/images/2020/5/4/541/196/43673309555.541196905.IM1.MAIN.480x640_A.1600x1200.jpg",
+                        "title": "Used 2017 MAZDA MAZDA6 Grand Touring"
+                    }
+                ]
+            },
+            "isHot": false,
+            "make": "MAZDA",
+            "makeCode": "MAZDA",
+            "model": "MAZDA6",
+            "modelCode": "MAZDA6",
+            "owner": 72613149,
+            "ownerName": "Private Seller",
+            "priceValidUntil": "2021-01-14",
+            "pricingDetail": {
+                "callForPricing": false,
+                "ctaLink": false,
+                "dealIndicator": "Good",
+                "derived": "$17,900",
+                "first": "$17,900",
+                "incentive": 0,
+                "msrp": 0,
+                "noPriceLabel": "Contact Seller For Price",
+                "primary": 17900,
+                "salePrice": 17900,
+                "specialOffers": 0
+            },
+            "priority": "Premium",
+            "productTiles": [
+                {
+                    "cmp": "ec_pa_lgo",
+                    "cprd": "View_CERT",
+                    "epn": "autocheckps",
+                    "image": {
+                        "src": "/content/web/images/na/experian/227917.png",
+                        "title": "View AutoCheck Vehicle History"
+                    },
+                    "link": {
+                        "href": "/redirect/experian_forward.jsp?car_id=541196905&experianPS=true&TRANS=P&SID=ATCW7leI0MOskXfnug",
+                        "label": "View AutoCheck Vehicle History",
+                        "offsite": true,
+                        "partner": true
+                    },
+                    "tileType": "EXPERIAN_APPENDED"
+                }
+            ],
+            "quickViewFeatures": [
+                "Adaptive Cruise Control",
+                "Alarm System",
+                "Auxiliary Audio Input",
+                "Blind Spot Alert",
+                "Bluetooth, Hands-Free",
+                "Brake Assist",
+                "Cruise Control",
+                "Fog Lights",
+                "Heated Passenger Seat",
+                "Heated Seats",
+                "Keyless Entry",
+                "Leather Seats",
+                "Leather Wrapped Steering Wheel",
+                "Midsize",
+                "Navigation System",
+                "Power Passenger Seat",
+                "Power Windows",
+                "Premium Sound System",
+                "Premium Wheels",
+                "Rear Spoiler",
+                "Rearview Camera",
+                "Satellite Radio",
+                "Side Air Bag",
+                "Steering Wheel Controls",
+                "Sunroof"
+            ],
+            "specifications": {
+                "interiorColor": {
+                    "label": "Interior Color",
+                    "value": "Beige"
+                },
+                "color": {
+                    "label": "Color",
+                    "value": "Blue"
+                },
+                "engine": {
+                    "label": "Engine",
+                    "value": "4-Cylinder"
+                },
+                "driveType": {
+                    "label": "Drive Type",
+                    "value": "2 wheel drive - front"
+                },
+                "mileage": {
+                    "label": "miles",
+                    "value": "18,500"
+                }
+            },
+            "style": [
+                "Sedan"
+            ],
+            "title": "Used 2017 MAZDA MAZDA6 Grand Touring",
+            "trim": "Grand Touring",
+            "type": "Used",
+            "vin": "JM1GL1W53H1144372",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=541196905&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50&makeCode1=MAZDA&modelCode1=MAZDA6"
+            },
+            "year": 2017,
+            "zip": "30005"
+        },
+        "541668849": {
+            "accelerate": false,
+            "description": {
+                "label": "New 2020 Ford Explorer"
+            },
+            "hasSpecialOffer": true,
+            "id": 541668849,
+            "images": {
+                "hasStockPhoto": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "New 2020 Ford Explorer 4WD ST - 541668849",
+                        "src": "https://images.autotrader.com/hn/c/c4fea011aa254d8fb17180e4592b41ee.jpg",
+                        "title": "New 2020 Ford Explorer 4WD ST"
+                    }
+                ]
+            },
+            "isHot": false,
+            "isNewlyListed": false,
+            "isReducedPrice": false,
+            "makeCode": "FORD",
+            "modelCode": "EXPLOR",
+            "owner": 57027721,
+            "ownerName": "Blue Ridge North Georgia Ford",
+            "phone": {
+                "linkText": "Get this seller's phone number",
+                "privateNumber": false,
+                "value": "8334869299",
+                "isVisible": true
+            },
+            "pricingDetail": {
+                "assetType": "NONE",
+                "callForPricing": true,
+                "ctaLink": false,
+                "derived": "59560",
+                "first": "$59,560.00",
+                "incentive": 0,
+                "msrp": 61654,
+                "primary": 59560,
+                "salePrice": 59560,
+                "specialOffers": 3
+            },
+            "specifications": {
+                "mileage": {
+                    "label": "miles",
+                    "value": "3"
+                }
+            },
+            "stockNumber": "N55852",
+            "title": "New 2020 Ford Explorer 4WD ST",
+            "trim": "4WD ST",
+            "type": "New",
+            "vin": "1FM5K8GC4LGB55852",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=541668849&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50"
+            },
+            "year": 0
+        },
+        "542257358": {
+            "accelerate": false,
+            "description": {
+                "label": "New 2020 Ford Escape"
+            },
+            "hasSpecialOffer": true,
+            "id": 542257358,
+            "images": {
+                "hasStockPhoto": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "New 2020 Ford Escape 4WD SE - 542257358",
+                        "src": "https://images.autotrader.com/hn/c/ba7eb60777a245058e3abd21111d167a.jpg",
+                        "title": "New 2020 Ford Escape 4WD SE"
+                    }
+                ]
+            },
+            "isHot": false,
+            "isNewlyListed": false,
+            "isReducedPrice": false,
+            "makeCode": "FORD",
+            "modelCode": "ESCAPE",
+            "owner": 57027721,
+            "ownerName": "Blue Ridge North Georgia Ford",
+            "phone": {
+                "linkText": "Get this seller's phone number",
+                "privateNumber": false,
+                "value": "8334869299",
+                "isVisible": true
+            },
+            "pricingDetail": {
+                "assetType": "NONE",
+                "callForPricing": true,
+                "ctaLink": false,
+                "derived": "30346",
+                "first": "$30,346.00",
+                "incentive": 0,
+                "msrp": 31429,
+                "primary": 30346,
+                "salePrice": 30346,
+                "specialOffers": 3
+            },
+            "specifications": {
+                "mileage": {
+                    "label": "miles",
+                    "value": "3"
+                }
+            },
+            "stockNumber": "N92123",
+            "title": "New 2020 Ford Escape 4WD SE",
+            "trim": "4WD SE",
+            "type": "New",
+            "vin": "1FMCU9G60LUA92123",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=542257358&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50"
+            },
+            "year": 0
+        },
+        "545275120": {
+            "accelerate": false,
+            "description": {
+                "label": "New 2020 Ford Escape"
+            },
+            "hasSpecialOffer": true,
+            "id": 545275120,
+            "images": {
+                "hasStockPhoto": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "New 2020 Ford Escape 4WD Titanium - 545275120",
+                        "src": "https://images.autotrader.com/hn/c/95261e5a980042aaaae3b56635ed6686.jpg",
+                        "title": "New 2020 Ford Escape 4WD Titanium"
+                    }
+                ]
+            },
+            "isHot": false,
+            "isNewlyListed": false,
+            "isReducedPrice": false,
+            "makeCode": "FORD",
+            "modelCode": "ESCAPE",
+            "owner": 57027721,
+            "ownerName": "Blue Ridge North Georgia Ford",
+            "phone": {
+                "linkText": "Get this seller's phone number",
+                "privateNumber": false,
+                "value": "8334869299",
+                "isVisible": true
+            },
+            "pricingDetail": {
+                "assetType": "NONE",
+                "callForPricing": true,
+                "ctaLink": false,
+                "derived": "58750",
+                "first": "$58,750.00",
+                "incentive": 0,
+                "msrp": 40320,
+                "primary": 58750,
+                "salePrice": 58750,
+                "specialOffers": 3
+            },
+            "specifications": {
+                "mileage": {
+                    "label": "miles",
+                    "value": "3"
+                }
+            },
+            "stockNumber": "N92125",
+            "title": "New 2020 Ford Escape 4WD Titanium",
+            "trim": "4WD Titanium",
+            "type": "New",
+            "vin": "1FMCU9J90LUA92125",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=545275120&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50"
+            },
+            "year": 0
+        },
+        "546272740": {
+            "accelerate": false,
+            "description": {
+                "label": "New 2020 Ford Explorer"
+            },
+            "hasSpecialOffer": true,
+            "id": 546272740,
+            "images": {
+                "hasStockPhoto": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "New 2020 Ford Explorer 2WD XLT - 546272740",
+                        "src": "https://images.autotrader.com/hn/c/2542b1dec455438da93e925144a2f748.jpg",
+                        "title": "New 2020 Ford Explorer 2WD XLT"
+                    }
+                ]
+            },
+            "isHot": false,
+            "isNewlyListed": false,
+            "isReducedPrice": false,
+            "makeCode": "FORD",
+            "modelCode": "EXPLOR",
+            "owner": 57027721,
+            "ownerName": "Blue Ridge North Georgia Ford",
+            "phone": {
+                "linkText": "Get this seller's phone number",
+                "privateNumber": false,
+                "value": "8334869299",
+                "isVisible": true
+            },
+            "pricingDetail": {
+                "assetType": "NONE",
+                "callForPricing": true,
+                "ctaLink": false,
+                "derived": "44345",
+                "first": "$44,345.00",
+                "incentive": 0,
+                "msrp": 45645,
+                "primary": 44345,
+                "salePrice": 44345,
+                "specialOffers": 3
+            },
+            "specifications": {
+                "mileage": {
+                    "label": "miles",
+                    "value": "3"
+                }
+            },
+            "stockNumber": "N89656",
+            "title": "New 2020 Ford Explorer 2WD XLT",
+            "trim": "2WD XLT",
+            "type": "New",
+            "vin": "1FMSK7DH2LGB89656",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=546272740&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50"
+            },
+            "year": 0
+        },
+        "548142347": {
+            "accelerate": false,
+            "description": {
+                "label": "New 2020 Ford Explorer"
+            },
+            "hasSpecialOffer": true,
+            "id": 548142347,
+            "images": {
+                "hasStockPhoto": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "New 2020 Ford Explorer 4WD Platinum - 548142347",
+                        "src": "https://images.autotrader.com/hn/c/064c2f5edd894e21ac28600227f90d9e.jpg",
+                        "title": "New 2020 Ford Explorer 4WD Platinum"
+                    }
+                ]
+            },
+            "isHot": false,
+            "isNewlyListed": false,
+            "isReducedPrice": false,
+            "makeCode": "FORD",
+            "modelCode": "EXPLOR",
+            "owner": 57027721,
+            "ownerName": "Blue Ridge North Georgia Ford",
+            "phone": {
+                "linkText": "Get this seller's phone number",
+                "privateNumber": false,
+                "value": "8334869299",
+                "isVisible": true
+            },
+            "pricingDetail": {
+                "assetType": "NONE",
+                "callForPricing": true,
+                "ctaLink": false,
+                "derived": "59950",
+                "first": "$59,950.00",
+                "incentive": 0,
+                "msrp": 61750,
+                "primary": 59950,
+                "salePrice": 59950,
+                "specialOffers": 3
+            },
+            "specifications": {
+                "mileage": {
+                    "label": "miles",
+                    "value": "3"
+                }
+            },
+            "stockNumber": "N80109",
+            "title": "New 2020 Ford Explorer 4WD Platinum",
+            "trim": "4WD Platinum",
+            "type": "New",
+            "vin": "1FM5K8HC3LGB80109",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=548142347&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50"
+            },
+            "year": 0
+        },
+        "548143570": {
+            "accelerate": false,
+            "description": {
+                "label": "New 2020 Ford F150"
+            },
+            "hasSpecialOffer": true,
+            "id": 548143570,
+            "images": {
+                "hasStockPhoto": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "New 2020 Ford F150 SuperCrew Limited - 548143570",
+                        "src": "https://images.autotrader.com/hn/c/62407f1001a445f696713dfe75ba522b.jpg",
+                        "title": "New 2020 Ford F150 SuperCrew Limited"
+                    }
+                ]
+            },
+            "isHot": false,
+            "isNewlyListed": false,
+            "isReducedPrice": false,
+            "makeCode": "FORD",
+            "modelCode": "F150PICKUP",
+            "owner": 57027721,
+            "ownerName": "Blue Ridge North Georgia Ford",
+            "phone": {
+                "linkText": "Get this seller's phone number",
+                "privateNumber": false,
+                "value": "8334869299",
+                "isVisible": true
+            },
+            "pricingDetail": {
+                "assetType": "NONE",
+                "callForPricing": false,
+                "ctaLink": false,
+                "derived": "76795",
+                "first": "$76,795.00",
+                "incentive": 0,
+                "msrp": 76795,
+                "primary": 76795,
+                "salePrice": 76795,
+                "specialOffers": 3
+            },
+            "specifications": {
+                "mileage": {
+                    "label": "miles",
+                    "value": "3"
+                }
+            },
+            "stockNumber": "N61342",
+            "title": "New 2020 Ford F150 SuperCrew Limited",
+            "trim": "SuperCrew Limited",
+            "type": "New",
+            "vin": "1FTEW1EG6LFB61342",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=548143570&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50"
+            },
+            "year": 0
+        },
+        "548686611": {
+            "accelerate": false,
+            "description": {
+                "label": "New 2020 Ford F250"
+            },
+            "hasSpecialOffer": true,
+            "id": 548686611,
+            "images": {
+                "hasStockPhoto": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "New 2020 Ford F250 Crew Cab King Ranch - 548686611",
+                        "src": "https://images.autotrader.com/hn/c/1a858ca508654913b58e42630b7775d7.jpg",
+                        "title": "New 2020 Ford F250 Crew Cab King Ranch"
+                    }
+                ]
+            },
+            "isHot": false,
+            "isNewlyListed": false,
+            "isReducedPrice": false,
+            "makeCode": "FORD",
+            "modelCode": "F250",
+            "owner": 57027721,
+            "ownerName": "Blue Ridge North Georgia Ford",
+            "phone": {
+                "linkText": "Get this seller's phone number",
+                "privateNumber": false,
+                "value": "8334869299",
+                "isVisible": true
+            },
+            "pricingDetail": {
+                "assetType": "NONE",
+                "callForPricing": false,
+                "ctaLink": false,
+                "derived": "80999",
+                "first": "$80,999.00",
+                "incentive": 0,
+                "msrp": 80999,
+                "primary": 80999,
+                "salePrice": 80999,
+                "specialOffers": 1
+            },
+            "specifications": {
+                "mileage": {
+                    "label": "miles",
+                    "value": "3"
+                }
+            },
+            "stockNumber": "N29518",
+            "title": "New 2020 Ford F250 Crew Cab King Ranch",
+            "trim": "Crew Cab King Ranch",
+            "type": "New",
+            "vin": "1FT8W2BT0LED29518",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=548686611&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50"
+            },
+            "year": 0
+        },
+        "548768644": {
+            "accelerate": false,
+            "description": {
+                "label": "New 2020 Ford Expedition Max"
+            },
+            "hasSpecialOffer": true,
+            "id": 548768644,
+            "images": {
+                "hasStockPhoto": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "New 2020 Ford Expedition Max 4WD King Ranch - 548768644",
+                        "src": "https://images.autotrader.com/hn/c/e9d233e16e324f318b95b70be941612c.jpg",
+                        "title": "New 2020 Ford Expedition Max 4WD King Ranch"
+                    }
+                ]
+            },
+            "isHot": false,
+            "isNewlyListed": false,
+            "isReducedPrice": false,
+            "makeCode": "FORD",
+            "modelCode": "FORDEXPMAX",
+            "owner": 57027721,
+            "ownerName": "Blue Ridge North Georgia Ford",
+            "phone": {
+                "linkText": "Get this seller's phone number",
+                "privateNumber": false,
+                "value": "8334869299",
+                "isVisible": true
+            },
+            "pricingDetail": {
+                "assetType": "NONE",
+                "callForPricing": true,
+                "ctaLink": false,
+                "derived": "79336",
+                "first": "$79,336.00",
+                "incentive": 0,
+                "msrp": 82735,
+                "primary": 79336,
+                "salePrice": 79336,
+                "specialOffers": 3
+            },
+            "specifications": {
+                "mileage": {
+                    "label": "miles",
+                    "value": "3"
+                }
+            },
+            "stockNumber": "N51401",
+            "title": "New 2020 Ford Expedition Max 4WD King Ranch",
+            "trim": "4WD King Ranch",
+            "type": "New",
+            "vin": "1FMJK1PT8LEA51401",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=548768644&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50"
+            },
+            "year": 0
+        },
+        "548937154": {
+            "accelerate": false,
+            "dealerConfig": {},
+            "description": {
+                "hasMore": true,
+                "label": "Extremely clean, Excellent condition both interior and exterior, like new, only 6K miles, fully loaded, M-Sports Package, no accidents, clea..."
+            },
+            "features": [
+                "Backup Camera",
+                "Bluetooth Hands-Free",
+                "CD Player",
+                "Cruise Control",
+                "Heated Seats",
+                "Keyless Entry",
+                "Leather Seats",
+                "Multi-zone Climate Control",
+                "Navigation",
+                "Portable Audio Connection",
+                "Power Locks",
+                "Power Windows",
+                "Premium Audio",
+                "Premium Wheels",
+                "Security System",
+                "Steering Wheel Controls",
+                "Sunroof"
+            ],
+            "fuelType": "Gasoline",
+            "hasSpecialOffer": false,
+            "id": 548937154,
+            "images": {
+                "hasVideoIcon": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "Used 2018 BMW 340i w/ M-Sport Package - 548937154",
+                        "src": "//images.autotrader.com/images/2020/3/31/548/937/43671702760.548937154.IM1.MAIN.1600x1200_A.900x1200.jpg",
+                        "title": "Used 2018 BMW 340i w/ M-Sport Package"
+                    }
+                ]
+            },
+            "isHot": false,
+            "isReducedPrice": true,
+            "make": "BMW",
+            "makeCode": "BMW",
+            "model": "340i",
+            "modelCode": "BMW340I",
+            "owner": 72707721,
+            "ownerName": "Private Seller",
+            "priceValidUntil": "2021-03-31",
+            "pricingDetail": {
+                "callForPricing": false,
+                "ctaLink": false,
+                "dealIndicator": "Great",
+                "derived": "$32,500",
+                "first": "$32,500",
+                "incentive": 0,
+                "msrp": 0,
+                "noPriceLabel": "Contact Seller For Price",
+                "primary": 32500,
+                "salePrice": 32500,
+                "specialOffers": 0
+            },
+            "priority": "Premium",
+            "productTiles": [
+                {
+                    "cmp": "ec_pa_lgo",
+                    "cprd": "View_CERT",
+                    "epn": "autocheckps",
+                    "image": {
+                        "src": "/content/web/images/na/experian/227917.png",
+                        "title": "View AutoCheck Vehicle History"
+                    },
+                    "link": {
+                        "href": "/redirect/experian_forward.jsp?car_id=548937154&experianPS=true&TRANS=P&SID=ATCGxOe6QWFG0wzaEo",
+                        "label": "View AutoCheck Vehicle History",
+                        "offsite": true,
+                        "partner": true
+                    },
+                    "tileType": "EXPERIAN_APPENDED"
+                }
+            ],
+            "quickViewFeatures": [
+                "Alarm System",
+                "Auxiliary Audio Input",
+                "Blind Spot Alert",
+                "Bluetooth, Hands-Free",
+                "Brake Assist",
+                "Cruise Control",
+                "Fog Lights",
+                "Heated Passenger Seat",
+                "Heated Seats",
+                "Keyless Entry",
+                "Leather Seats",
+                "Leather Wrapped Steering Wheel",
+                "Midsize",
+                "Navigation System",
+                "Parking assist",
+                "Power Passenger Seat",
+                "Power Windows",
+                "Premium Sound System",
+                "Premium Wheels",
+                "Rearview Camera",
+                "Satellite Radio",
+                "Side Air Bag",
+                "Steering Wheel Controls",
+                "Sunroof"
+            ],
+            "specifications": {
+                "engine": {
+                    "label": "Engine",
+                    "value": "6-Cylinder Turbo"
+                },
+                "driveType": {
+                    "label": "Drive Type",
+                    "value": "2 wheel drive - rear"
+                },
+                "mileage": {
+                    "label": "miles",
+                    "value": "6,354"
+                }
+            },
+            "style": [
+                "Sedan"
+            ],
+            "title": "Used 2018 BMW 340i w/ M-Sport Package",
+            "trim": "w/ M-Sport Package",
+            "type": "Used",
+            "vin": "WBA8B3C52JK843108",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=548937154&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50&makeCode1=BMW&modelCode1=BMW340I"
+            },
+            "year": 2018,
+            "zip": "30022"
+        },
+        "548948498": {
+            "accelerate": false,
+            "dealerConfig": {},
+            "description": {
+                "hasMore": true,
+                "label": "This is super clean 2016 Cadillac Escalade ESV Platinum in Crystal White and Black Interior. 31,000 low miles.  4WD, Apple Car Play, tinted ..."
+            },
+            "features": [
+                "3rd Row Seats",
+                "Backup Camera",
+                "Bluetooth Hands-Free",
+                "Cruise Control",
+                "DVD Player",
+                "Heated Seats",
+                "Keyless Entry",
+                "Leather Seats",
+                "Multi-zone Climate Control",
+                "Navigation",
+                "Portable Audio Connection",
+                "Power Locks",
+                "Power Windows",
+                "Premium Audio",
+                "Premium Wheels",
+                "Security System",
+                "Steering Wheel Controls",
+                "Sunroof",
+                "Trailer Hitch"
+            ],
+            "fuelType": "Gasoline",
+            "hasSpecialOffer": false,
+            "id": 548948498,
+            "images": {
+                "hasVideoIcon": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "Used 2016 Cadillac Escalade ESV 4WD Platinum - 548948498",
+                        "src": "//images.autotrader.com/images/2020/3/31/548/948/43671705128.548948498.IM1.MAIN.1600x1200_A.1600x1200.jpg",
+                        "title": "Used 2016 Cadillac Escalade ESV 4WD Platinum"
+                    }
+                ]
+            },
+            "isHot": false,
+            "make": "Cadillac",
+            "makeCode": "CAD",
+            "model": "Escalade ESV",
+            "modelCode": "ESCALAESV",
+            "owner": 72707775,
+            "ownerName": "Private Seller",
+            "priceValidUntil": "2021-03-31",
+            "pricingDetail": {
+                "callForPricing": false,
+                "ctaLink": false,
+                "dealIndicator": "Great",
+                "derived": "$47,800",
+                "first": "$47,800",
+                "incentive": 0,
+                "msrp": 0,
+                "noPriceLabel": "Contact Seller For Price",
+                "primary": 47800,
+                "salePrice": 47800,
+                "specialOffers": 0
+            },
+            "priority": "Premium",
+            "productTiles": [
+                {
+                    "cmp": "ec_pa_lgo",
+                    "cprd": "View_CERT",
+                    "epn": "autocheckps",
+                    "image": {
+                        "src": "/content/web/images/na/experian/227917.png",
+                        "title": "View AutoCheck Vehicle History"
+                    },
+                    "link": {
+                        "href": "/redirect/experian_forward.jsp?car_id=548948498&experianPS=true&TRANS=P&SID=ATCJv3GIYRgdHUrp7e",
+                        "label": "View AutoCheck Vehicle History",
+                        "offsite": true,
+                        "partner": true
+                    },
+                    "tileType": "EXPERIAN_APPENDED"
+                }
+            ],
+            "quickViewFeatures": [
+                "3rd-Row Seats",
+                "Adaptive Cruise Control",
+                "Alarm System",
+                "Auxiliary Audio Input",
+                "Blind Spot Alert",
+                "Bluetooth, Hands-Free",
+                "Brake Assist",
+                "Cooled Seats",
+                "Cruise Control",
+                "DVD Player",
+                "Entertainment System",
+                "Fog Lights",
+                "Heated Passenger Seat",
+                "Heated Seats",
+                "Keyless Entry",
+                "Lane Departure Warning",
+                "Leather Wrapped Steering Wheel",
+                "Luxury",
+                "Navigation System",
+                "Parking assist",
+                "Power Passenger Seat",
+                "Power Windows",
+                "Premium Sound System",
+                "Premium Wheels",
+                "Rear ",
+                "Rear Heated Seats",
+                "Rearview Camera",
+                "Roof Rack",
+                "Running Boards",
+                "Satellite Radio",
+                "Side Air Bag"
+            ],
+            "specifications": {
+                "interiorColor": {
+                    "label": "Interior Color",
+                    "value": "Black"
+                },
+                "transmission": {
+                    "label": "Transmission",
+                    "value": "Automatic"
+                },
+                "color": {
+                    "label": "Color",
+                    "value": "White"
+                },
+                "mpg": {
+                    "label": "MPG",
+                    "value": "15 City / 21 Highway"
+                },
+                "engine": {
+                    "label": "Engine",
+                    "value": "8-Cylinder"
+                },
+                "driveType": {
+                    "label": "Drive Type",
+                    "value": "4 wheel drive - rear wheel default"
+                },
+                "mileage": {
+                    "label": "miles",
+                    "value": "33,000"
+                }
+            },
+            "style": [
+                "Sport Utility"
+            ],
+            "title": "Used 2016 Cadillac Escalade ESV 4WD Platinum",
+            "trim": "4WD Platinum",
+            "type": "Used",
+            "vin": "1GYS4KKJ9GR218663",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=548948498&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50&makeCode1=CAD&modelCode1=ESCALAESV"
+            },
+            "year": 2016,
+            "zip": "30041"
+        },
+        "549007935": {
+            "accelerate": false,
+            "description": {
+                "label": "New 2020 Ford Escape"
+            },
+            "hasSpecialOffer": true,
+            "id": 549007935,
+            "images": {
+                "hasStockPhoto": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "New 2020 Ford Escape FWD SE - 549007935",
+                        "src": "https://images.autotrader.com/hn/c/d0027cf9bb7e422db00650740ada2d9c.jpg",
+                        "title": "New 2020 Ford Escape FWD SE"
+                    }
+                ]
+            },
+            "isHot": false,
+            "isNewlyListed": false,
+            "isReducedPrice": false,
+            "makeCode": "FORD",
+            "modelCode": "ESCAPE",
+            "owner": 57027721,
+            "ownerName": "Blue Ridge North Georgia Ford",
+            "phone": {
+                "linkText": "Get this seller's phone number",
+                "privateNumber": false,
+                "value": "8334869299",
+                "isVisible": true
+            },
+            "pricingDetail": {
+                "assetType": "NONE",
+                "callForPricing": true,
+                "ctaLink": false,
+                "derived": "29500",
+                "first": "$29,500.00",
+                "incentive": 0,
+                "msrp": 30700,
+                "primary": 29500,
+                "salePrice": 29500,
+                "specialOffers": 3
+            },
+            "specifications": {
+                "mileage": {
+                    "label": "miles",
+                    "value": "3"
+                }
+            },
+            "stockNumber": "N38241",
+            "title": "New 2020 Ford Escape FWD SE",
+            "trim": "FWD SE",
+            "type": "New",
+            "vin": "1FMCU0G62LUB38241",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=549007935&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50"
+            },
+            "year": 0
+        },
+        "549742449": {
+            "accelerate": false,
+            "dealerConfig": {},
+            "description": {
+                "hasMore": true,
+                "label": "2019 Jeep Renegade Latitude SUV, 4D, 2.4L, V4 7100 mile. Front wheel drive  Private sale from the Original owner! Never been in any accident..."
+            },
+            "features": [
+                "Backup Camera",
+                "Bluetooth Hands-Free",
+                "CD Player",
+                "Cruise Control",
+                "Keyless Entry",
+                "Lift Kit",
+                "Multi-zone Climate Control",
+                "Portable Audio Connection",
+                "Power Locks",
+                "Power Windows",
+                "Premium Audio",
+                "Premium Wheels",
+                "Security System",
+                "Steering Wheel Controls"
+            ],
+            "fuelType": "Gasoline",
+            "hasSpecialOffer": false,
+            "id": 549742449,
+            "images": {
+                "hasVideoIcon": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "Used 2019 Jeep Renegade FWD Latitude - 549742449",
+                        "src": "//images.autotrader.com/images/2020/4/15/549/742/43672392781.549742449.IM1.MAIN.1600x1200_A.1600x900.jpg",
+                        "title": "Used 2019 Jeep Renegade FWD Latitude"
+                    }
+                ]
+            },
+            "isHot": false,
+            "make": "Jeep",
+            "makeCode": "JEEP",
+            "model": "Renegade",
+            "modelCode": "JEEPRENEG",
+            "owner": 72718643,
+            "ownerName": "Private Seller",
+            "priceValidUntil": "2021-04-15",
+            "pricingDetail": {
+                "callForPricing": false,
+                "ctaLink": false,
+                "dealIndicator": "Great",
+                "derived": "$16,990",
+                "first": "$16,990",
+                "incentive": 0,
+                "msrp": 0,
+                "noPriceLabel": "Contact Seller For Price",
+                "primary": 16990,
+                "salePrice": 16990,
+                "specialOffers": 0
+            },
+            "priority": "Premium",
+            "productTiles": [
+                {
+                    "cmp": "ec_pa_lgo",
+                    "cprd": "View_CERT",
+                    "epn": "autocheckps",
+                    "image": {
+                        "src": "/content/web/images/na/experian/227917.png",
+                        "title": "View AutoCheck Vehicle History"
+                    },
+                    "link": {
+                        "href": "/redirect/experian_forward.jsp?car_id=549742449&experianPS=true&TRANS=P&SID=ATCOR76DjXBryCPpMi",
+                        "label": "View AutoCheck Vehicle History",
+                        "offsite": true,
+                        "partner": true
+                    },
+                    "tileType": "EXPERIAN_APPENDED"
+                }
+            ],
+            "quickViewFeatures": [
+                "Compact"
+            ],
+            "specifications": {
+                "interiorColor": {
+                    "label": "Interior Color",
+                    "value": "Black"
+                },
+                "transmission": {
+                    "label": "Transmission",
+                    "value": "Automatic"
+                },
+                "color": {
+                    "label": "Color",
+                    "value": "Gray"
+                },
+                "mpg": {
+                    "label": "MPG",
+                    "value": "21 City / 29 Highway"
+                },
+                "engine": {
+                    "label": "Engine",
+                    "value": "4-Cylinder"
+                },
+                "driveType": {
+                    "label": "Drive Type",
+                    "value": "4 wheel drive - front wheel default"
+                },
+                "mileage": {
+                    "label": "miles",
+                    "value": "7,000"
+                }
+            },
+            "style": [
+                "Sport Utility"
+            ],
+            "title": "Used 2019 Jeep Renegade FWD Latitude",
+            "trim": "FWD Latitude",
+            "type": "Used",
+            "vin": "ZACNJABB0KPK80827",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=549742449&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50&makeCode1=JEEP&modelCode1=JEEPRENEG"
+            },
+            "year": 2019,
+            "zip": "30097"
+        },
+        "551129109": {
+            "accelerate": false,
+            "dealerConfig": {},
+            "description": {
+                "hasMore": true,
+                "label": "I have a gently used 2013 Ford Focus for sale. Purchased in 2017 at Bob Hurley Ford while in Tulsa Oklahoma. Mileage was at 29,000 or so mil..."
+            },
+            "features": [
+                "Bluetooth Hands-Free",
+                "CD Player",
+                "Cruise Control",
+                "Keyless Entry",
+                "Power Locks",
+                "Power Windows",
+                "Premium Audio",
+                "Premium Wheels",
+                "Security System",
+                "Steering Wheel Controls"
+            ],
+            "fuelType": "Flexible Fuel",
+            "hasSpecialOffer": false,
+            "id": 551129109,
+            "images": {
+                "hasVideoIcon": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "Used 2013 Ford Focus SE Sedan - 551129109",
+                        "src": "//images.autotrader.com/images/2020/5/10/551/129/43673668798.551129109.IM1.MAIN.1600x1200_A.1600x900.jpg",
+                        "title": "Used 2013 Ford Focus SE Sedan"
+                    }
+                ]
+            },
+            "isHot": false,
+            "make": "Ford",
+            "makeCode": "FORD",
+            "model": "Focus",
+            "modelCode": "FOCUS",
+            "owner": 72746579,
+            "ownerName": "Private Seller",
+            "priceValidUntil": "2021-05-10",
+            "pricingDetail": {
+                "callForPricing": false,
+                "ctaLink": false,
+                "dealIndicator": "Good",
+                "derived": "$6,200",
+                "first": "$6,200",
+                "incentive": 0,
+                "msrp": 0,
+                "noPriceLabel": "Contact Seller For Price",
+                "primary": 6200,
+                "salePrice": 6200,
+                "specialOffers": 0
+            },
+            "priority": "Premium",
+            "productTiles": [
+                {
+                    "cmp": "ec_pa_lgo",
+                    "cprd": "View_CERT",
+                    "epn": "autocheckps",
+                    "image": {
+                        "src": "/content/web/images/na/experian/227917.png",
+                        "title": "View AutoCheck Vehicle History"
+                    },
+                    "link": {
+                        "href": "/redirect/experian_forward.jsp?car_id=551129109&experianPS=true&TRANS=P&SID=ATCnSDQji6RvXgbm7N",
+                        "label": "View AutoCheck Vehicle History",
+                        "offsite": true,
+                        "partner": true
+                    },
+                    "tileType": "EXPERIAN_APPENDED"
+                }
+            ],
+            "quickViewFeatures": [
+                "Alarm System",
+                "Auxiliary Audio Input",
+                "Bluetooth, Hands-Free",
+                "Brake Assist",
+                "Compact",
+                "Cruise Control",
+                "Keyless Entry",
+                "Power Windows",
+                "Premium Wheels",
+                "Satellite Radio",
+                "Side Air Bag",
+                "Steering Wheel Controls"
+            ],
+            "specifications": {
+                "interiorColor": {
+                    "label": "Interior Color",
+                    "value": "Charcoal"
+                },
+                "color": {
+                    "label": "Color",
+                    "value": "Black"
+                },
+                "engine": {
+                    "label": "Engine",
+                    "value": "4-Cylinder"
+                },
+                "driveType": {
+                    "label": "Drive Type",
+                    "value": "2 wheel drive - front"
+                },
+                "mileage": {
+                    "label": "miles",
+                    "value": "61,917"
+                }
+            },
+            "style": [
+                "Sedan"
+            ],
+            "title": "Used 2013 Ford Focus SE Sedan",
+            "trim": "SE Sedan",
+            "type": "Used",
+            "vin": "1FADP3F24DL332010",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=551129109&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50&makeCode1=FORD&modelCode1=FOCUS"
+            },
+            "year": 2013,
+            "zip": "30042"
+        },
+        "551145517": {
+            "accelerate": false,
+            "dealerConfig": {},
+            "description": {
+                "hasMore": true,
+                "label": "This is a stick shift/manual transmission. This is an excellent car; great on gas, easy to drive, and basically brand new. The car has 3 doo..."
+            },
+            "features": [
+                "Backup Camera",
+                "Bluetooth Hands-Free",
+                "Cruise Control",
+                "Keyless Entry",
+                "Power Locks",
+                "Power Windows",
+                "Steering Wheel Controls"
+            ],
+            "fuelType": "Gasoline",
+            "hasSpecialOffer": false,
+            "id": 551145517,
+            "images": {
+                "hasVideoIcon": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "Used 2014 Hyundai Veloster N - 551145517",
+                        "src": "//images.autotrader.com/images/2020/5/26/551/145/43674468826.551145517.IM1.MAIN.1600x1200_A.1600x1200.jpg",
+                        "title": "Used 2014 Hyundai Veloster N"
+                    }
+                ]
+            },
+            "isHot": false,
+            "isReducedPrice": true,
+            "make": "Hyundai",
+            "makeCode": "HYUND",
+            "model": "Veloster",
+            "modelCode": "VELOSTER",
+            "owner": 72747945,
+            "ownerName": "Private Seller",
+            "priceValidUntil": "2021-05-11",
+            "pricingDetail": {
+                "callForPricing": false,
+                "ctaLink": false,
+                "dealIndicator": "Good",
+                "derived": "$8,000",
+                "first": "$8,000",
+                "incentive": 0,
+                "msrp": 0,
+                "noPriceLabel": "Contact Seller For Price",
+                "primary": 8000,
+                "salePrice": 8000,
+                "specialOffers": 0
+            },
+            "priority": "Premium",
+            "productTiles": [
+                {
+                    "cmp": "ec_pa_lgo",
+                    "cprd": "View_CERT",
+                    "epn": "autocheckps",
+                    "image": {
+                        "src": "/content/web/images/na/experian/227917.png",
+                        "title": "View AutoCheck Vehicle History"
+                    },
+                    "link": {
+                        "href": "/redirect/experian_forward.jsp?car_id=551145517&experianPS=true&TRANS=P&SID=ATCTu5aC6UYtp83GR7",
+                        "label": "View AutoCheck Vehicle History",
+                        "offsite": true,
+                        "partner": true
+                    },
+                    "tileType": "EXPERIAN_APPENDED"
+                }
+            ],
+            "quickViewFeatures": [
+                "Alarm System",
+                "Auxiliary Audio Input",
+                "Bluetooth, Hands-Free",
+                "Brake Assist",
+                "Compact",
+                "Cruise Control",
+                "Keyless Entry",
+                "Power Passenger Seat",
+                "Power Windows",
+                "Premium Wheels",
+                "Rear Spoiler",
+                "Rearview Camera",
+                "Satellite Radio",
+                "Side Air Bag",
+                "Steering Wheel Controls"
+            ],
+            "specifications": {
+                "interiorColor": {
+                    "label": "Interior Color",
+                    "value": "Black"
+                },
+                "transmission": {
+                    "label": "Transmission",
+                    "value": "Manual"
+                },
+                "color": {
+                    "label": "Color",
+                    "value": "Blue"
+                },
+                "mpg": {
+                    "label": "MPG",
+                    "value": "26 City / 35 Highway"
+                },
+                "engine": {
+                    "label": "Engine",
+                    "value": "4-Cylinder"
+                },
+                "driveType": {
+                    "label": "Drive Type",
+                    "value": "2 wheel drive - front"
+                },
+                "mileage": {
+                    "label": "miles",
+                    "value": "43,567"
+                }
+            },
+            "style": [
+                "Hatchback"
+            ],
+            "title": "Used 2014 Hyundai Veloster N",
+            "trim": "N",
+            "type": "Used",
+            "vin": "KMHTC6AD2EU184944",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=551145517&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50&makeCode1=HYUND&modelCode1=VELOSTER"
+            },
+            "year": 2014,
+            "zip": "30093"
+        },
+        "551424493": {
+            "accelerate": false,
+            "dealerConfig": {},
+            "description": {
+                "hasMore": true,
+                "label": "Call 678-2181738  Immaculate/pristine condition with LOW mileage of 6197!  Moving to a mini-van :(  Sacrifice for $73,900 Beautiful Fuji Whi..."
+            },
+            "features": [
+                "Backup Camera",
+                "Bluetooth Hands-Free",
+                "CD Player",
+                "Cruise Control",
+                "Heated Seats",
+                "Keyless Entry",
+                "Leather Seats",
+                "Multi-zone Climate Control",
+                "Navigation",
+                "Portable Audio Connection",
+                "Power Locks",
+                "Power Windows",
+                "Premium Audio",
+                "Premium Wheels",
+                "Security System",
+                "Steering Wheel Controls",
+                "Sunroof",
+                "Trailer Hitch"
+            ],
+            "fuelType": "Gasoline",
+            "hasSpecialOffer": false,
+            "id": 551424493,
+            "images": {
+                "hasVideoIcon": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "Used 2019 Land Rover Range Rover Sport HSE Dynamic - 551424493",
+                        "src": "//images.autotrader.com/images/2020/5/15/551/424/43673916563.551424493.IM1.MAIN.1600x1200_A.640x480.jpg",
+                        "title": "Used 2019 Land Rover Range Rover Sport HSE Dynamic"
+                    }
+                ]
+            },
+            "isHot": false,
+            "make": "Land Rover",
+            "makeCode": "ROV",
+            "model": "Range Rover Sport",
+            "modelCode": "RANGESPORT",
+            "owner": 72751601,
+            "ownerName": "Private Seller",
+            "priceValidUntil": "2021-05-14",
+            "pricingDetail": {
+                "callForPricing": false,
+                "ctaLink": false,
+                "dealIndicator": "Great",
+                "derived": "$73,900",
+                "first": "$73,900",
+                "incentive": 0,
+                "msrp": 0,
+                "noPriceLabel": "Contact Seller For Price",
+                "primary": 73900,
+                "salePrice": 73900,
+                "specialOffers": 0
+            },
+            "priority": "Premium",
+            "productTiles": [
+                {
+                    "cmp": "ec_pa_lgo",
+                    "cprd": "View_CERT",
+                    "epn": "autocheckps",
+                    "image": {
+                        "src": "/content/web/images/na/experian/227917.png",
+                        "title": "View AutoCheck Vehicle History"
+                    },
+                    "link": {
+                        "href": "/redirect/experian_forward.jsp?car_id=551424493&experianPS=true&TRANS=P&SID=ATCu523IKQhrmoQcwI",
+                        "label": "View AutoCheck Vehicle History",
+                        "offsite": true,
+                        "partner": true
+                    },
+                    "tileType": "EXPERIAN_APPENDED"
+                }
+            ],
+            "quickViewFeatures": [
+                "Adaptive Cruise Control",
+                "Alarm System",
+                "Auxiliary Audio Input",
+                "Blind Spot Alert",
+                "Bluetooth, Hands-Free",
+                "Brake Assist",
+                "Collision Warning",
+                "Cooled Seats",
+                "Cruise Control",
+                "Fog Lights",
+                "Heated Passenger Seat",
+                "Heated Seats",
+                "Keyless Entry",
+                "Le",
+                "Leather Wrapped Steering Wheel",
+                "Luxury",
+                "Navigation System",
+                "Parking assist",
+                "Power Passenger Seat",
+                "Power Windows",
+                "Premium Sound System",
+                "Premium Wheels",
+                "Rear Heated Seats",
+                "Rear Spoiler",
+                "Rearview Camera",
+                "Remote Engine Start",
+                "Satellite Radio",
+                "Side Air Bag",
+                "Steering Wheel Controls",
+                "Sunroof",
+                "Trailer Hitch"
+            ],
+            "specifications": {
+                "interiorColor": {
+                    "label": "Interior Color",
+                    "value": "Blue"
+                },
+                "color": {
+                    "label": "Color",
+                    "value": "White"
+                },
+                "driveType": {
+                    "label": "Drive Type",
+                    "value": "4 wheel drive"
+                },
+                "mileage": {
+                    "label": "miles",
+                    "value": "6,197"
+                }
+            },
+            "style": [
+                "Sport Utility"
+            ],
+            "title": "Used 2019 Land Rover Range Rover Sport HSE Dynamic",
+            "trim": "HSE Dynamic",
+            "type": "Used",
+            "vin": "SALWV2SV0KA843069",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=551424493&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50&makeCode1=ROV&modelCode1=RANGESPORT"
+            },
+            "year": 2019,
+            "zip": "30097"
+        },
+        "551806409": {
+            "accelerate": false,
+            "dealerConfig": {},
+            "description": {
+                "hasMore": true,
+                "label": "For sale by private seller, 2018 Subaru WRX Premium with Performance Package.  MSRP in 2018 $32,205.    Exceptional condition, clean no acci..."
+            },
+            "features": [
+                "Backup Camera",
+                "Bluetooth Hands-Free",
+                "CD Player",
+                "Cruise Control",
+                "Heated Seats",
+                "Keyless Entry",
+                "Multi-zone Climate Control",
+                "Power Locks",
+                "Power Windows",
+                "Premium Wheels",
+                "Security System",
+                "Steering Wheel Controls"
+            ],
+            "fuelType": "Gasoline",
+            "hasSpecialOffer": false,
+            "id": 551806409,
+            "images": {
+                "hasVideoIcon": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "Used 2018 Subaru WRX Premium w/ PERFORMANCE PACKAGE - 551806409",
+                        "src": "//images.autotrader.com/images/2020/5/19/551/806/43674151494.551806409.IM1.MAIN.1600x1200_A.640x480.jpg",
+                        "title": "Used 2018 Subaru WRX Premium w/ PERFORMANCE PACKAGE"
+                    }
+                ]
+            },
+            "isHot": false,
+            "make": "Subaru",
+            "makeCode": "SUB",
+            "model": "WRX",
+            "modelCode": "SUBWRX",
+            "owner": 72759593,
+            "ownerName": "Private Seller",
+            "priceValidUntil": "2021-05-19",
+            "pricingDetail": {
+                "callForPricing": false,
+                "ctaLink": false,
+                "dealIndicator": "Good",
+                "derived": "$25,500",
+                "first": "$25,500",
+                "incentive": 0,
+                "msrp": 0,
+                "noPriceLabel": "Contact Seller For Price",
+                "primary": 25500,
+                "salePrice": 25500,
+                "specialOffers": 0
+            },
+            "priority": "Premium",
+            "productTiles": [
+                {
+                    "cmp": "ec_pa_lgo",
+                    "cprd": "View_CERT",
+                    "epn": "autocheckps",
+                    "image": {
+                        "src": "/content/web/images/na/experian/227917.png",
+                        "title": "View AutoCheck Vehicle History"
+                    },
+                    "link": {
+                        "href": "/redirect/experian_forward.jsp?car_id=551806409&experianPS=true&TRANS=P&SID=ATC3iPnkAmla7IkLQU",
+                        "label": "View AutoCheck Vehicle History",
+                        "offsite": true,
+                        "partner": true
+                    },
+                    "tileType": "EXPERIAN_APPENDED"
+                }
+            ],
+            "quickViewFeatures": [
+                "Alarm System",
+                "Auxiliary Audio Input",
+                "Bluetooth, Hands-Free",
+                "Brake Assist",
+                "Cruise Control",
+                "Fog Lights",
+                "Heated Passenger Seat",
+                "Heated Seats",
+                "Keyless Entry",
+                "Leather Seats",
+                "Leather Wrapped Steering Wheel",
+                "Power Passenger Seat",
+                "Power Windows",
+                "Premium Wheels",
+                "Rear Spoiler",
+                "Rearview Camera",
+                "Satellite Radio",
+                "Side Air Bag",
+                "Sport",
+                "Steering Wheel Controls",
+                "Sunroof"
+            ],
+            "specifications": {
+                "interiorColor": {
+                    "label": "Interior Color",
+                    "value": "Gray"
+                },
+                "transmission": {
+                    "label": "Transmission",
+                    "value": "Manual"
+                },
+                "color": {
+                    "label": "Color",
+                    "value": "Blue"
+                },
+                "mpg": {
+                    "label": "MPG",
+                    "value": "21 City / 27 Highway"
+                },
+                "engine": {
+                    "label": "Engine",
+                    "value": "4-Cylinder Turbo"
+                },
+                "driveType": {
+                    "label": "Drive Type",
+                    "value": "All wheel drive"
+                },
+                "mileage": {
+                    "label": "miles",
+                    "value": "12,000"
+                }
+            },
+            "style": [
+                "Sedan"
+            ],
+            "title": "Used 2018 Subaru WRX Premium w/ PERFORMANCE PACKAGE",
+            "trim": "Premium w/ PERFORMANCE PACKAGE",
+            "type": "Used",
+            "vin": "JF1VA1B64J9828968",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=551806409&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50&makeCode1=SUB&modelCode1=SUBWRX"
+            },
+            "year": 2018,
+            "zip": "30022"
+        },
+        "551961001": {
+            "accelerate": false,
+            "dealerConfig": {},
+            "description": {
+                "hasMore": true,
+                "label": "Excellent condition.  Low miles.  Up to date with all Maintenance.  Front tires are brand new, back tires are relatively new.   INCLUDES WIN..."
+            },
+            "features": [
+                "Backup Camera",
+                "Bluetooth Hands-Free",
+                "CD Player",
+                "Cruise Control",
+                "Heated Seats",
+                "Keyless Entry",
+                "Leather Seats",
+                "Multi-zone Climate Control",
+                "Navigation",
+                "Portable Audio Connection",
+                "Power Locks",
+                "Power Windows",
+                "Premium Audio",
+                "Security System",
+                "Steering Wheel Controls"
+            ],
+            "fuelType": "Gasoline",
+            "hasSpecialOffer": false,
+            "id": 551961001,
+            "images": {
+                "hasVideoIcon": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "Used 2012 Lexus IS 250C - 551961001",
+                        "src": "//images.autotrader.com/images/2020/5/21/551/961/43674234491.551961001.IM1.MAIN.320x240_A.320x240.jpg",
+                        "title": "Used 2012 Lexus IS 250C"
+                    }
+                ]
+            },
+            "isHot": false,
+            "isReducedPrice": true,
+            "make": "Lexus",
+            "makeCode": "LEXUS",
+            "model": "IS 250C",
+            "modelCode": "IS250C",
+            "owner": 72761191,
+            "ownerName": "Private Seller",
+            "priceValidUntil": "2021-05-21",
+            "pricingDetail": {
+                "callForPricing": false,
+                "ctaLink": false,
+                "dealIndicator": "Great",
+                "derived": "$16,900",
+                "first": "$16,900",
+                "incentive": 0,
+                "msrp": 0,
+                "noPriceLabel": "Contact Seller For Price",
+                "primary": 16900,
+                "salePrice": 16900,
+                "specialOffers": 0
+            },
+            "priority": "Premium",
+            "productTiles": [
+                {
+                    "cmp": "ec_pa_lgo",
+                    "cprd": "View_CERT",
+                    "epn": "autocheckps",
+                    "image": {
+                        "src": "/content/web/images/na/experian/227917.png",
+                        "title": "View AutoCheck Vehicle History"
+                    },
+                    "link": {
+                        "href": "/redirect/experian_forward.jsp?car_id=551961001&experianPS=true&TRANS=P&SID=ATCUS50HBUGGvGeJi2",
+                        "label": "View AutoCheck Vehicle History",
+                        "offsite": true,
+                        "partner": true
+                    },
+                    "tileType": "EXPERIAN_APPENDED"
+                }
+            ],
+            "quickViewFeatures": [
+                "Alarm System",
+                "Auxiliary Audio Input",
+                "Bluetooth, Hands-Free",
+                "Brake Assist",
+                "Cruise Control",
+                "Fog Lights",
+                "Heated Passenger Seat",
+                "Heated Seats",
+                "Keyless Entry",
+                "Leather Seats",
+                "Leather Wrapped Steering Wheel",
+                "Luxury",
+                "Navigation System",
+                "Power Passenger Seat",
+                "Power Windows",
+                "Premium Sound System",
+                "Premium Wheels",
+                "Rear Spoiler",
+                "Rearview Camera",
+                "Satellite Radio",
+                "Side Air Bag",
+                "Steering Wheel Controls",
+                "Sunroof"
+            ],
+            "specifications": {
+                "interiorColor": {
+                    "label": "Interior Color",
+                    "value": "Black"
+                },
+                "color": {
+                    "label": "Color",
+                    "value": "Gray"
+                },
+                "engine": {
+                    "label": "Engine",
+                    "value": "6-Cylinder"
+                },
+                "driveType": {
+                    "label": "Drive Type",
+                    "value": "2 wheel drive"
+                },
+                "mileage": {
+                    "label": "miles",
+                    "value": "66,500"
+                }
+            },
+            "style": [
+                "Convertible"
+            ],
+            "title": "Used 2012 Lexus IS 250C",
+            "type": "Used",
+            "vin": "JTHFF2C29C2521422",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=551961001&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50&makeCode1=LEXUS&modelCode1=IS250C"
+            },
+            "year": 2012,
+            "zip": "30092"
+        },
+        "552024697": {
+            "accelerate": false,
+            "dealerConfig": {},
+            "fuelType": "Gasoline",
+            "hasSpecialOffer": false,
+            "id": 552024697,
+            "images": {
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "Used 2016 BMW X5 M - 552024697",
+                        "src": "https://images.autotrader.com/images/2020/5/22/552/024/43674277142.552024697.IM1.MAIN.1024x768_A.1024x768.jpg",
+                        "title": "Used 2016 BMW X5 M"
+                    }
+                ]
+            },
+            "isHot": false,
+            "isNewlyListed": false,
+            "isReducedPrice": false,
+            "make": "BMW",
+            "makeCode": "BMW",
+            "model": "X5 M",
+            "modelCode": "X5M",
+            "owner": 72762393,
+            "ownerName": "Private Seller",
+            "priceValidUntil": "2021-05-22",
+            "pricingDetail": {
+                "noPriceLabel": "Contact Seller For Price",
+                "salePrice": 52000
+            },
+            "quickViewFeatures": [
+                "Alarm System",
+                "Auxiliary Audio Input",
+                "Bluetooth, Hands-Free",
+                "Brake Assist",
+                "Cruise Control",
+                "DVD Player",
+                "Fog Lights",
+                "HID Headlights",
+                "Heated Passenger Seat",
+                "Heated Seats",
+                "Keyless Entry",
+                "Leather Seats",
+                "Leather Wrapped Steering Wheel",
+                "Navigation System",
+                "Parking assist",
+                "Power Passenger Seat",
+                "Power Windows",
+                "Premium Sound System",
+                "Premium Wheels",
+                "Rear Spoiler",
+                "Rearview Camera",
+                "Roof Rack",
+                "Satellite Radio",
+                "Side Air Bag",
+                "Sport",
+                "Steering Wheel Controls",
+                "Sunroof"
+            ],
+            "specifications": {
+                "color": {
+                    "label": "Color",
+                    "value": "Gray"
+                },
+                "mpg": {
+                    "label": "MPG",
+                    "value": "14 City / 19 Highway"
+                },
+                "engine": {
+                    "label": "Engine",
+                    "value": "8-Cylinder Turbo"
+                },
+                "driveType": {
+                    "label": "Drive Type",
+                    "value": "All wheel drive"
+                },
+                "mileage": {
+                    "label": "miles",
+                    "value": "44,000"
+                }
+            },
+            "style": [
+                "Sport Utility"
+            ],
+            "title": "Used 2016 BMW X5 M",
+            "type": "USED",
+            "vin": "5YMKT6C58G0R78709",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=552024697&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50"
+            },
+            "year": 2016,
+            "birf": {
+                "isPhotoAvailable": "y",
+                "make": "BMW",
+                "model": "X5M",
+                "spotlightId": "0",
+                "spotlightType": "P"
+            },
+            "spotlightType": "LISTING"
+        },
+        "552348204": {
+            "accelerate": false,
+            "dealerConfig": {},
+            "description": {
+                "hasMore": true,
+                "label": "This 5th Generation Camaro 1SS/RS (MT) is slammed, cammed, and dyno tuned by Lethal Racing to put down 481 RWHP. I'm the original owner and ..."
+            },
+            "features": [
+                "Bluetooth Hands-Free",
+                "Cruise Control",
+                "DVD Player",
+                "Navigation",
+                "Power Windows",
+                "Premium Audio",
+                "Premium Wheels",
+                "Steering Wheel Controls"
+            ],
+            "fuelType": "Gasoline",
+            "hasSpecialOffer": false,
+            "id": 552348204,
+            "images": {
+                "hasVideoIcon": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "Used 2010 Chevrolet Camaro SS Coupe - 552348204",
+                        "src": "//images.autotrader.com/images/2020/5/26/552/348/43674506458.552348204.IM1.MAIN.640x427_A.900x1200.jpg",
+                        "title": "Used 2010 Chevrolet Camaro SS Coupe"
+                    }
+                ]
+            },
+            "isHot": false,
+            "isNewlyListed": true,
+            "make": "Chevrolet",
+            "makeCode": "CHEV",
+            "model": "Camaro",
+            "modelCode": "CAM",
+            "owner": 72768125,
+            "ownerName": "Private Seller",
+            "priceValidUntil": "2021-05-26",
+            "pricingDetail": {
+                "callForPricing": false,
+                "ctaLink": false,
+                "derived": "$18,000",
+                "first": "$18,000",
+                "incentive": 0,
+                "msrp": 0,
+                "noPriceLabel": "Contact Seller For Price",
+                "primary": 18000,
+                "salePrice": 18000,
+                "specialOffers": 0
+            },
+            "priority": "Premium",
+            "productTiles": [
+                {
+                    "cmp": "ec_pa_lgo",
+                    "cprd": "View_CERT",
+                    "epn": "autocheckps",
+                    "image": {
+                        "src": "/content/web/images/na/experian/227917.png",
+                        "title": "View AutoCheck Vehicle History"
+                    },
+                    "link": {
+                        "href": "/redirect/experian_forward.jsp?car_id=552348204&experianPS=true&TRANS=P&SID=ATCgJOt22w5uhYGcm3",
+                        "label": "View AutoCheck Vehicle History",
+                        "offsite": true,
+                        "partner": true
+                    },
+                    "tileType": "EXPERIAN_APPENDED"
+                }
+            ],
+            "quickViewFeatures": [
+                "Alarm System",
+                "Auxiliary Audio Input",
+                "Bluetooth, Hands-Free",
+                "Brake Assist",
+                "Cruise Control",
+                "DVD Player",
+                "Fog Lights",
+                "Keyless Entry",
+                "Leather Wrapped Steering Wheel",
+                "Navigation System",
+                "Power Passenger Seat",
+                "Power Windows",
+                "Premium Wheels",
+                "Rear Spoiler",
+                "Remote Engine Start",
+                "Satellite Radio",
+                "Side Air Bag",
+                "Sport",
+                "Steering Wheel Controls"
+            ],
+            "specifications": {
+                "interiorColor": {
+                    "label": "Interior Color",
+                    "value": "Black"
+                },
+                "transmission": {
+                    "label": "Transmission",
+                    "value": "Manual"
+                },
+                "color": {
+                    "label": "Color",
+                    "value": "Black"
+                },
+                "mpg": {
+                    "label": "MPG",
+                    "value": "16 City / 24 Highway"
+                },
+                "engine": {
+                    "label": "Engine",
+                    "value": "8-Cylinder"
+                },
+                "driveType": {
+                    "label": "Drive Type",
+                    "value": "2 wheel drive - rear"
+                },
+                "mileage": {
+                    "label": "miles",
+                    "value": "83,599"
+                }
+            },
+            "style": [
+                "Coupe"
+            ],
+            "title": "Used 2010 Chevrolet Camaro SS Coupe",
+            "trim": "SS Coupe",
+            "type": "Used",
+            "vin": "2G1FS1EW0A9167918",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=552348204&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50&makeCode1=CHEV&modelCode1=CAM"
+            },
+            "year": 2010,
+            "zip": "30019"
+        },
+        "552348208": {
+            "accelerate": false,
+            "dealerConfig": {},
+            "description": {
+                "hasMore": true,
+                "label": "The last year with factory Recaros, 5 speed manual, factory maintenance performed with oem fluids at recommended intervals. No accidents, mi..."
+            },
+            "fuelType": "Gasoline",
+            "hasSpecialOffer": false,
+            "id": 552348208,
+            "images": {
+                "hasVideoIcon": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "Used 2014 Mitsubishi Lancer Evolution GSR - 552348208",
+                        "src": "https://images.autotrader.com/images/2020/5/26/552/348/43674506508.552348208.IM1.MAIN.1600x1200_A.1024x683.jpg",
+                        "title": "Used 2014 Mitsubishi Lancer Evolution GSR"
+                    }
+                ]
+            },
+            "isHot": false,
+            "isNewlyListed": true,
+            "make": "Mitsubishi",
+            "makeCode": "MIT",
+            "model": "Lancer Evolution",
+            "modelCode": "LANCEREVO",
+            "owner": 72768133,
+            "ownerName": "Private Seller",
+            "priceValidUntil": "2021-05-26",
+            "pricingDetail": {
+                "callForPricing": false,
+                "ctaLink": false,
+                "dealIndicator": "Good",
+                "derived": "$27,500",
+                "first": "$27,500",
+                "incentive": 0,
+                "msrp": 0,
+                "noPriceLabel": "Contact Seller For Price",
+                "primary": 27500,
+                "salePrice": 27500,
+                "specialOffers": 0
+            },
+            "priority": "Premium",
+            "productTiles": [
+                {
+                    "cmp": "ec_pa_lgo",
+                    "cprd": "View_CERT",
+                    "epn": "autocheckps",
+                    "image": {
+                        "src": "/content/web/images/na/experian/227917.png",
+                        "title": "View AutoCheck Vehicle History"
+                    },
+                    "link": {
+                        "href": "/redirect/experian_forward.jsp?car_id=552348208&experianPS=true&TRANS=P&SID=ATCtyBohkz6CrWtoi4",
+                        "label": "View AutoCheck Vehicle History",
+                        "offsite": true,
+                        "partner": true
+                    },
+                    "tileType": "EXPERIAN_APPENDED"
+                }
+            ],
+            "quickViewFeatures": [
+                "Alarm System",
+                "Bluetooth, Hands-Free",
+                "Cruise Control",
+                "Fog Lights",
+                "Keyless Entry",
+                "Leather Wrapped Steering Wheel",
+                "Power Passenger Seat",
+                "Power Windows",
+                "Premium Sound System",
+                "Premium Wheels",
+                "Rear Spoiler",
+                "Satellite Radio",
+                "Side Air Bag",
+                "Sport",
+                "Steering Wheel Controls"
+            ],
+            "specifications": {
+                "interiorColor": {
+                    "label": "Interior Color",
+                    "value": "Black"
+                },
+                "transmission": {
+                    "label": "Transmission",
+                    "value": "Manual"
+                },
+                "color": {
+                    "label": "Color",
+                    "value": "Blue"
+                },
+                "mpg": {
+                    "label": "MPG",
+                    "value": "17 City / 23 Highway"
+                },
+                "engine": {
+                    "label": "Engine",
+                    "value": "4-Cylinder Turbo"
+                },
+                "driveType": {
+                    "label": "Drive Type",
+                    "value": "All wheel drive"
+                },
+                "mileage": {
+                    "label": "miles",
+                    "value": "49,100"
+                }
+            },
+            "style": [
+                "Sedan"
+            ],
+            "title": "Used 2014 Mitsubishi Lancer Evolution GSR",
+            "trim": "GSR",
+            "type": "USED",
+            "vin": "JA32W8FV4EU014376",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=552348208&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50"
+            },
+            "year": 2014,
+            "zip": "30004",
+            "isReducedPrice": false,
+            "birf": {
+                "isPhotoAvailable": "y",
+                "make": "MIT",
+                "model": "LANCEREVO",
+                "spotlightId": "0",
+                "spotlightType": "P"
+            },
+            "spotlightType": "LISTING"
+        },
+        "552348213": {
+            "accelerate": false,
+            "dealerConfig": {},
+            "description": {
+                "hasMore": true,
+                "label": "FINANCING AVAILABLE FOR EVERYONE **FINANCING AVAILABLE FOR EVERYONE** NO ACCIDENTS. CLEAN CARFAX. DEALER MAINTAINED. OFF LEASE VEHICLE.   AU..."
+            },
+            "features": [
+                "Backup Camera",
+                "Bluetooth Hands-Free",
+                "CD Player",
+                "Cruise Control",
+                "Heated Seats",
+                "Keyless Entry",
+                "Leather Seats",
+                "Multi-zone Climate Control",
+                "Navigation",
+                "Portable Audio Connection",
+                "Power Locks",
+                "Power Windows",
+                "Premium Audio",
+                "Premium Wheels",
+                "Security System",
+                "Steering Wheel Controls",
+                "Sunroof",
+                "Trailer Hitch"
+            ],
+            "fuelType": "Gasoline",
+            "hasSpecialOffer": false,
+            "id": 552348213,
+            "images": {
+                "hasVideoIcon": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "Used 2015 Lexus GS 350 - 552348213",
+                        "src": "//images.autotrader.com/images/2020/5/26/552/348/43674506650.552348213.IM1.MAIN.1600x1200_A.1000x750.jpg",
+                        "title": "Used 2015 Lexus GS 350"
+                    }
+                ]
+            },
+            "isHot": false,
+            "isNewlyListed": true,
+            "make": "Lexus",
+            "makeCode": "LEXUS",
+            "model": "GS 350",
+            "modelCode": "GS350",
+            "owner": 72768143,
+            "ownerName": "Private Seller",
+            "priceValidUntil": "2021-05-26",
+            "pricingDetail": {
+                "callForPricing": false,
+                "ctaLink": false,
+                "dealIndicator": "Good",
+                "derived": "$24,000",
+                "first": "$24,000",
+                "incentive": 0,
+                "msrp": 0,
+                "noPriceLabel": "Contact Seller For Price",
+                "primary": 24000,
+                "salePrice": 24000,
+                "specialOffers": 0
+            },
+            "priority": "Premium",
+            "productTiles": [
+                {
+                    "cmp": "ec_pa_lgo",
+                    "cprd": "Get_CERT",
+                    "epn": "autocheckno",
+                    "image": {
+                        "title": "Get AutoCheck Vehicle History"
+                    },
+                    "link": {
+                        "href": "/redirect/experian_forward.jsp?car_id=552348213&retail=true&siteId=7100",
+                        "label": "Get AutoCheck Vehicle History",
+                        "offsite": true,
+                        "partner": true
+                    },
+                    "tileType": "EXPERIAN_RETAIL"
+                }
+            ],
+            "quickViewFeatures": [
+                "Alarm System",
+                "Auxiliary Audio Input",
+                "Blind Spot Alert",
+                "Bluetooth, Hands-Free",
+                "Brake Assist",
+                "Cruise Control",
+                "DVD Player",
+                "Fog Lights",
+                "HID Headlights",
+                "Heated Passenger Seat",
+                "Heated Seats",
+                "Infotainment System",
+                "Keyless Entry",
+                "Leather Seats",
+                "Leather Wrapped Steering Wheel",
+                "Luxury",
+                "Navigation System",
+                "Parking assist",
+                "Power Passenger Seat",
+                "Power Windows",
+                "Premium Sound System",
+                "Premium Wheels",
+                "Rear Spoiler",
+                "Rearview Camera",
+                "Satellite Radio",
+                "Side Air Bag",
+                "Steering Wheel Controls",
+                "Sunroof",
+                "Telematics",
+                "Trailer Hitch"
+            ],
+            "specifications": {
+                "interiorColor": {
+                    "label": "Interior Color",
+                    "value": "Black"
+                },
+                "transmission": {
+                    "label": "Transmission",
+                    "value": "Automatic"
+                },
+                "color": {
+                    "label": "Color",
+                    "value": "White"
+                },
+                "mpg": {
+                    "label": "MPG",
+                    "value": "19 City / 29 Highway"
+                },
+                "engine": {
+                    "label": "Engine",
+                    "value": "6-Cylinder"
+                },
+                "driveType": {
+                    "label": "Drive Type",
+                    "value": "2 wheel drive - rear"
+                },
+                "mileage": {
+                    "label": "miles",
+                    "value": "38,800"
+                }
+            },
+            "style": [
+                "Sedan"
+            ],
+            "title": "Used 2015 Lexus GS 350",
+            "type": "Used",
+            "vin": "JTHBE1BL9FA003312",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=552348213&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50&makeCode1=LEXUS&modelCode1=GS350"
+            },
+            "year": 2015,
+            "zip": "30319"
+        },
+        "552429325": {
+            "accelerate": false,
+            "dealerConfig": {},
+            "description": {
+                "hasMore": true,
+                "label": "1-Owner Immaculately maintained Fully loaded top of the line car with Bose Speakers and Navigation Bluetooth connectivity - both for phones ..."
+            },
+            "features": [
+                "Bluetooth Hands-Free",
+                "Cruise Control",
+                "Heated Seats",
+                "Keyless Entry",
+                "Leather Seats",
+                "Navigation",
+                "Power Locks",
+                "Power Windows",
+                "Premium Audio",
+                "Premium Wheels",
+                "Steering Wheel Controls",
+                "Sunroof"
+            ],
+            "fuelType": "Gasoline",
+            "hasSpecialOffer": false,
+            "id": 552429325,
+            "images": {
+                "hasVideoIcon": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "Used 2013 MAZDA MAZDA3 - 552429325",
+                        "src": "//images.autotrader.com/images/2020/5/27/552/429/43674544253.552429325.IM1.MAIN.1600x1200_A.900x1200.jpg",
+                        "title": "Used 2013 MAZDA MAZDA3"
+                    }
+                ]
+            },
+            "isHot": false,
+            "isNewlyListed": true,
+            "make": "MAZDA",
+            "makeCode": "MAZDA",
+            "model": "MAZDA3",
+            "modelCode": "MAZDA3",
+            "owner": 72768973,
+            "ownerName": "Private Seller",
+            "priceValidUntil": "2021-05-27",
+            "pricingDetail": {
+                "callForPricing": false,
+                "ctaLink": false,
+                "derived": "$9,990",
+                "first": "$9,990",
+                "incentive": 0,
+                "msrp": 0,
+                "noPriceLabel": "Contact Seller For Price",
+                "primary": 9990,
+                "salePrice": 9990,
+                "specialOffers": 0
+            },
+            "priority": "Premium",
+            "productTiles": [
+                {
+                    "cmp": "ec_pa_lgo",
+                    "cprd": "View_CERT",
+                    "epn": "autocheckps",
+                    "image": {
+                        "src": "/content/web/images/na/experian/227917.png",
+                        "title": "View AutoCheck Vehicle History"
+                    },
+                    "link": {
+                        "href": "/redirect/experian_forward.jsp?car_id=552429325&experianPS=true&TRANS=P&SID=ATCV2OhCYh3f3VQ1Gt",
+                        "label": "View AutoCheck Vehicle History",
+                        "offsite": true,
+                        "partner": true
+                    },
+                    "tileType": "EXPERIAN_APPENDED"
+                }
+            ],
+            "quickViewFeatures": [
+                "Alarm System",
+                "Auxiliary Audio Input",
+                "Blind Spot Alert",
+                "Bluetooth, Hands-Free",
+                "Brake Assist",
+                "Compact",
+                "Cruise Control",
+                "Fog Lights",
+                "HID Headlights",
+                "Heated Passenger Seat",
+                "Heated Seats",
+                "Keyless Entry",
+                "Leather Seats",
+                "Leather Wrapped Steering Wheel",
+                "Navigation System",
+                "Power Passenger Seat",
+                "Power Windows",
+                "Premium Sound System",
+                "Premium Wheels",
+                "Rear Spoiler",
+                "Satellite Radio",
+                "Side Air Bag",
+                "Steering Wheel Controls",
+                "Sunroof"
+            ],
+            "specifications": {
+                "interiorColor": {
+                    "label": "Interior Color",
+                    "value": "Beige"
+                },
+                "transmission": {
+                    "label": "Transmission",
+                    "value": "Automatic"
+                },
+                "color": {
+                    "label": "Color",
+                    "value": "Gray"
+                },
+                "engine": {
+                    "label": "Engine",
+                    "value": "4-Cylinder"
+                },
+                "driveType": {
+                    "label": "Drive Type",
+                    "value": "2 wheel drive - front"
+                },
+                "mileage": {
+                    "label": "miles",
+                    "value": "53,588"
+                }
+            },
+            "style": [
+                "Sedan"
+            ],
+            "title": "Used 2013 MAZDA MAZDA3",
+            "type": "Used",
+            "vin": "JM1BL1W55D1752589",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=552429325&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50&makeCode1=MAZDA&modelCode1=MAZDA3"
+            },
+            "year": 2013,
+            "zip": "30097"
+        },
+        "552526347": {
+            "accelerate": false,
+            "dealerConfig": {},
+            "description": {
+                "hasMore": true,
+                "label": "One female owner. Custom color. Car has been well maintained--all service records as well as owner's manual and original purchase documents ..."
+            },
+            "features": [
+                "Bluetooth Hands-Free",
+                "Cruise Control",
+                "Heated Seats",
+                "Keyless Entry",
+                "Leather Seats",
+                "Multi-zone Climate Control",
+                "Navigation",
+                "Power Locks",
+                "Power Windows",
+                "Premium Audio",
+                "Premium Wheels",
+                "Security System",
+                "Steering Wheel Controls"
+            ],
+            "fuelType": "Gasoline",
+            "hasSpecialOffer": false,
+            "id": 552526347,
+            "images": {
+                "hasVideoIcon": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "Used 2011 BMW 328i Convertible - 552526347",
+                        "src": "//images.autotrader.com/images/2020/5/28/552/526/43674630721.552526347.IM1.MAIN.1600x1200_A.1600x1196.jpg",
+                        "title": "Used 2011 BMW 328i Convertible"
+                    }
+                ]
+            },
+            "isHot": false,
+            "isNewlyListed": true,
+            "make": "BMW",
+            "makeCode": "BMW",
+            "model": "328i",
+            "modelCode": "328I",
+            "owner": 72770343,
+            "ownerName": "Private Seller",
+            "priceValidUntil": "2021-05-28",
+            "pricingDetail": {
+                "callForPricing": false,
+                "ctaLink": false,
+                "derived": "$12,000",
+                "first": "$12,000",
+                "incentive": 0,
+                "msrp": 0,
+                "noPriceLabel": "Contact Seller For Price",
+                "primary": 12000,
+                "salePrice": 12000,
+                "specialOffers": 0
+            },
+            "priority": "Premium",
+            "productTiles": [
+                {
+                    "cmp": "ec_pa_lgo",
+                    "cprd": "View_CERT",
+                    "epn": "autocheckps",
+                    "image": {
+                        "src": "/content/web/images/na/experian/227917.png",
+                        "title": "View AutoCheck Vehicle History"
+                    },
+                    "link": {
+                        "href": "/redirect/experian_forward.jsp?car_id=552526347&experianPS=true&TRANS=P&SID=ATCyQYuGsJ1oABurSO",
+                        "label": "View AutoCheck Vehicle History",
+                        "offsite": true,
+                        "partner": true
+                    },
+                    "tileType": "EXPERIAN_APPENDED"
+                }
+            ],
+            "quickViewFeatures": [
+                "Alarm System",
+                "Auxiliary Audio Input",
+                "Bluetooth, Hands-Free",
+                "Brake Assist",
+                "Cruise Control",
+                "Fog Lights",
+                "HID Headlights",
+                "Heated Passenger Seat",
+                "Heated Seats",
+                "Keyless Entry",
+                "Leather Seats",
+                "Leather Wrapped Steering Wheel",
+                "Luxury",
+                "Navigation System",
+                "Power Passenger Seat",
+                "Power Windows",
+                "Premium Wheels",
+                "Satellite Radio",
+                "Side Air Bag",
+                "Steering Wheel Controls",
+                "Sunroof"
+            ],
+            "specifications": {
+                "interiorColor": {
+                    "label": "Interior Color",
+                    "value": "Tan"
+                },
+                "transmission": {
+                    "label": "Transmission",
+                    "value": "Automatic"
+                },
+                "color": {
+                    "label": "Color",
+                    "value": "White"
+                },
+                "engine": {
+                    "label": "Engine",
+                    "value": "6-Cylinder"
+                },
+                "driveType": {
+                    "label": "Drive Type",
+                    "value": "2 wheel drive - rear"
+                },
+                "mileage": {
+                    "label": "miles",
+                    "value": "66,500"
+                }
+            },
+            "style": [
+                "Convertible"
+            ],
+            "title": "Used 2011 BMW 328i Convertible",
+            "trim": "Convertible",
+            "type": "Used",
+            "vin": "WBADW3C51BE540923",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=552526347&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50&makeCode1=BMW&modelCode1=328I"
+            },
+            "year": 2011,
+            "zip": "30096"
+        },
+        "552548164": {
+            "accelerate": false,
+            "dealerConfig": {},
+            "description": {
+                "hasMore": true,
+                "label": "2016 Jeep Renegade Limited; Pristine condition both inside and out. Less than 13,000 miles - rarely driven!  One owner. Was purchased brand ..."
+            },
+            "features": [
+                "Backup Camera",
+                "Bluetooth Hands-Free",
+                "CD Player",
+                "Cruise Control",
+                "Heated Seats",
+                "Keyless Entry",
+                "Leather Seats",
+                "Multi-zone Climate Control",
+                "Navigation",
+                "Portable Audio Connection",
+                "Power Locks",
+                "Power Windows",
+                "Premium Audio",
+                "Premium Wheels",
+                "Security System",
+                "Steering Wheel Controls",
+                "Sunroof"
+            ],
+            "fuelType": "Gasoline",
+            "hasSpecialOffer": false,
+            "id": 552548164,
+            "images": {
+                "hasVideoIcon": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "Used 2016 Jeep Renegade 4WD Limited - 552548164",
+                        "src": "//images.autotrader.com/images/2020/5/28/552/548/43674624797.552548164.IM1.MAIN.1600x1200_A.480x640.jpg",
+                        "title": "Used 2016 Jeep Renegade 4WD Limited"
+                    }
+                ]
+            },
+            "isHot": false,
+            "isNewlyListed": true,
+            "make": "Jeep",
+            "makeCode": "JEEP",
+            "model": "Renegade",
+            "modelCode": "JEEPRENEG",
+            "owner": 72771301,
+            "ownerName": "Private Seller",
+            "priceValidUntil": "2021-05-28",
+            "pricingDetail": {
+                "callForPricing": false,
+                "ctaLink": false,
+                "dealIndicator": "Good",
+                "derived": "$17,900",
+                "first": "$17,900",
+                "incentive": 0,
+                "msrp": 0,
+                "noPriceLabel": "Contact Seller For Price",
+                "primary": 17900,
+                "salePrice": 17900,
+                "specialOffers": 0
+            },
+            "priority": "Premium",
+            "productTiles": [
+                {
+                    "cmp": "ec_pa_lgo",
+                    "cprd": "View_CERT",
+                    "epn": "autocheckps",
+                    "image": {
+                        "src": "/content/web/images/na/experian/227917.png",
+                        "title": "View AutoCheck Vehicle History"
+                    },
+                    "link": {
+                        "href": "/redirect/experian_forward.jsp?car_id=552548164&experianPS=true&TRANS=P&SID=ATCYxLwfiXURfyv5N3",
+                        "label": "View AutoCheck Vehicle History",
+                        "offsite": true,
+                        "partner": true
+                    },
+                    "tileType": "EXPERIAN_APPENDED"
+                }
+            ],
+            "quickViewFeatures": [
+                "Alarm System",
+                "Auxiliary Audio Input",
+                "Bluetooth, Hands-Free",
+                "Brake Assist",
+                "Compact",
+                "Cruise Control",
+                "Fog Lights",
+                "Heated Passenger Seat",
+                "Heated Seats",
+                "Keyless Entry",
+                "Leather Seats",
+                "Leather Wrapped Steering Wheel",
+                "Navigation System",
+                "Power Passenger Seat",
+                "Power Windows",
+                "Premium Wheels",
+                "Rear Spoiler",
+                "Rearview Camera",
+                "Remote Engine Start",
+                "Roof Rack",
+                "Satellite Radio",
+                "Side Air Bag",
+                "Steering Wheel Controls",
+                "Sunroof"
+            ],
+            "specifications": {
+                "interiorColor": {
+                    "label": "Interior Color",
+                    "value": "Offwhite"
+                },
+                "transmission": {
+                    "label": "Transmission",
+                    "value": "Automatic"
+                },
+                "color": {
+                    "label": "Color",
+                    "value": "Black"
+                },
+                "engine": {
+                    "label": "Engine",
+                    "value": "4-Cylinder"
+                },
+                "driveType": {
+                    "label": "Drive Type",
+                    "value": "4 wheel drive - front wheel default"
+                },
+                "mileage": {
+                    "label": "miles",
+                    "value": "12,854"
+                }
+            },
+            "style": [
+                "Sport Utility"
+            ],
+            "title": "Used 2016 Jeep Renegade 4WD Limited",
+            "trim": "4WD Limited",
+            "type": "Used",
+            "vin": "ZACCJBDT5GPE11151",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=552548164&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50&makeCode1=JEEP&modelCode1=JEEPRENEG"
+            },
+            "year": 2016,
+            "zip": "30005"
+        },
+        "552557290": {
+            "accelerate": false,
+            "dealerConfig": {},
+            "description": {
+                "hasMore": true,
+                "label": "One Owner, single driver. Garaged always. No history of accidents. Regular service done at the Land Rover Garage, recent service done end of..."
+            },
+            "features": [
+                "Backup Camera",
+                "Cruise Control",
+                "DVD Player",
+                "Heated Seats",
+                "Leather Seats",
+                "Power Windows",
+                "Sunroof",
+                "Trailer Hitch"
+            ],
+            "fuelType": "Gasoline",
+            "hasSpecialOffer": false,
+            "id": 552557290,
+            "images": {
+                "hasVideoIcon": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "Used 2008 Land Rover Range Rover HSE - 552557290",
+                        "src": "//images.autotrader.com/images/2020/5/30/552/557/43674734041.552557290.IM1.MAIN.1600x1200_A.240x320.jpg",
+                        "title": "Used 2008 Land Rover Range Rover HSE"
+                    }
+                ]
+            },
+            "isHot": false,
+            "isNewlyListed": true,
+            "make": "Land Rover",
+            "makeCode": "ROV",
+            "model": "Range Rover",
+            "modelCode": "RANGE",
+            "owner": 72771417,
+            "ownerName": "Private Seller",
+            "priceValidUntil": "2021-05-28",
+            "pricingDetail": {
+                "callForPricing": false,
+                "ctaLink": false,
+                "derived": "$14,900",
+                "first": "$14,900",
+                "incentive": 0,
+                "msrp": 0,
+                "noPriceLabel": "Contact Seller For Price",
+                "primary": 14900,
+                "salePrice": 14900,
+                "specialOffers": 0
+            },
+            "priority": "Premium",
+            "productTiles": [
+                {
+                    "cmp": "ec_pa_lgo",
+                    "cprd": "View_CERT",
+                    "epn": "autocheckps",
+                    "image": {
+                        "src": "/content/web/images/na/experian/227917.png",
+                        "title": "View AutoCheck Vehicle History"
+                    },
+                    "link": {
+                        "href": "/redirect/experian_forward.jsp?car_id=552557290&experianPS=true&TRANS=A&SID=ATCDnXyMyJOwNqUmLB",
+                        "label": "View AutoCheck Vehicle History",
+                        "offsite": true,
+                        "partner": true
+                    },
+                    "tileType": "EXPERIAN_APPENDED"
+                }
+            ],
+            "quickViewFeatures": [
+                "Alarm System",
+                "Auxiliary Audio Input",
+                "Bluetooth, Hands-Free",
+                "Brake Assist",
+                "Cruise Control",
+                "DVD Player",
+                "Fog Lights",
+                "HID Headlights",
+                "Heated Passenger Seat",
+                "Heated Seats",
+                "Keyless Entry",
+                "Leather Seats",
+                "Leather Wrapped Steering Wheel",
+                "Luxury",
+                "Navigation System",
+                "Parking assist",
+                "Power Passenger Seat",
+                "Power Windows",
+                "Premium Sound System",
+                "Premium Wheels",
+                "Rear Heated Seats",
+                "Rear Tow Hooks",
+                "Rearview Camera",
+                "Satellite Radio",
+                "Side Air Bag",
+                "Steering Wheel Controls",
+                "Sunroof",
+                "Trailer Hitch"
+            ],
+            "specifications": {
+                "interiorColor": {
+                    "label": "Interior Color",
+                    "value": "Beige"
+                },
+                "transmission": {
+                    "label": "Transmission",
+                    "value": "Automatic"
+                },
+                "color": {
+                    "label": "Color",
+                    "value": "Black"
+                },
+                "mpg": {
+                    "label": "MPG",
+                    "value": "12 City / 18 Highway"
+                },
+                "engine": {
+                    "label": "Engine",
+                    "value": "8-Cylinder"
+                },
+                "driveType": {
+                    "label": "Drive Type",
+                    "value": "4 wheel drive"
+                },
+                "mileage": {
+                    "label": "miles",
+                    "value": "98,500"
+                }
+            },
+            "style": [
+                "Sport Utility"
+            ],
+            "title": "Used 2008 Land Rover Range Rover HSE",
+            "trim": "HSE",
+            "type": "Used",
+            "vin": "SALME15478A296119",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=552557290&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50&makeCode1=ROV&modelCode1=RANGE"
+            },
+            "year": 2008,
+            "zip": "30097"
+        },
+        "552557476": {
+            "accelerate": false,
+            "dealerConfig": {},
+            "description": {
+                "hasMore": true,
+                "label": "Excellent Condition and with leather interior and sports package. Back up Camera. Recently had a brand new clutch. New tires Oct 2019. Very ..."
+            },
+            "features": [
+                "Backup Camera",
+                "Leather Seats"
+            ],
+            "fuelType": "Flexible Fuel",
+            "hasSpecialOffer": false,
+            "id": 552557476,
+            "images": {
+                "hasVideoIcon": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "Used 2016 Ford Focus SE Hatchback - 552557476",
+                        "src": "//images.autotrader.com/images/2020/5/28/552/557/43674630339.552557476.IM1.MAIN.1600x1200_A.1600x1200.jpg",
+                        "title": "Used 2016 Ford Focus SE Hatchback"
+                    }
+                ]
+            },
+            "isHot": false,
+            "isNewlyListed": true,
+            "make": "Ford",
+            "makeCode": "FORD",
+            "model": "Focus",
+            "modelCode": "FOCUS",
+            "owner": 72771469,
+            "ownerName": "Private Seller",
+            "priceValidUntil": "2021-05-28",
+            "pricingDetail": {
+                "callForPricing": false,
+                "ctaLink": false,
+                "dealIndicator": "Good",
+                "derived": "$9,000",
+                "first": "$9,000",
+                "incentive": 0,
+                "msrp": 0,
+                "noPriceLabel": "Contact Seller For Price",
+                "primary": 9000,
+                "salePrice": 9000,
+                "specialOffers": 0
+            },
+            "priority": "Premium",
+            "productTiles": [
+                {
+                    "cmp": "ec_pa_lgo",
+                    "cprd": "View_CERT",
+                    "epn": "autocheckps",
+                    "image": {
+                        "src": "/content/web/images/na/experian/227917.png",
+                        "title": "View AutoCheck Vehicle History"
+                    },
+                    "link": {
+                        "href": "/redirect/experian_forward.jsp?car_id=552557476&experianPS=true&TRANS=P&SID=ATCru8gFCtdsBlgyNU",
+                        "label": "View AutoCheck Vehicle History",
+                        "offsite": true,
+                        "partner": true
+                    },
+                    "tileType": "EXPERIAN_APPENDED"
+                }
+            ],
+            "quickViewFeatures": [
+                "Alarm System",
+                "Auxiliary Audio Input",
+                "Bluetooth, Hands-Free",
+                "Brake Assist",
+                "Compact",
+                "Cruise Control",
+                "Keyless Entry",
+                "Leather Seats",
+                "Parking assist",
+                "Power Windows",
+                "Premium Wheels",
+                "Rear Spoiler",
+                "Rearview Camera",
+                "Running Boards",
+                "Satellite Radio",
+                "Side Air Bag",
+                "Steering Wheel Controls"
+            ],
+            "specifications": {
+                "interiorColor": {
+                    "label": "Interior Color",
+                    "value": "Black"
+                },
+                "color": {
+                    "label": "Color",
+                    "value": "White"
+                },
+                "engine": {
+                    "label": "Engine",
+                    "value": "4-Cylinder"
+                },
+                "driveType": {
+                    "label": "Drive Type",
+                    "value": "2 wheel drive - front"
+                },
+                "mileage": {
+                    "label": "miles",
+                    "value": "57,000"
+                }
+            },
+            "style": [
+                "Hatchback"
+            ],
+            "title": "Used 2016 Ford Focus SE Hatchback",
+            "trim": "SE Hatchback",
+            "type": "Used",
+            "vin": "1FADP3K20GL393204",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=552557476&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50&makeCode1=FORD&modelCode1=FOCUS"
+            },
+            "year": 2016,
+            "zip": "30022"
+        },
+        "552579828": {
+            "accelerate": false,
+            "dealerConfig": {},
+            "description": {
+                "hasMore": true,
+                "label": "I bought this car 5 months ago thinking I would own it forever but things have changed and I am better off selling it. With that being said ..."
+            },
+            "features": [
+                "Backup Camera",
+                "Bluetooth Hands-Free",
+                "CD Player",
+                "Cruise Control",
+                "Heated Seats",
+                "Keyless Entry",
+                "Leather Seats",
+                "Navigation",
+                "Power Locks",
+                "Power Windows",
+                "Premium Audio",
+                "Premium Wheels",
+                "Security System",
+                "Steering Wheel Controls",
+                "Sunroof"
+            ],
+            "fuelType": "Gasoline",
+            "hasSpecialOffer": false,
+            "id": 552579828,
+            "images": {
+                "hasVideoIcon": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "Used 2019 Audi RS 3 - 552579828",
+                        "src": "//images.autotrader.com/images/2020/5/29/552/579/43674633041.552579828.IM1.MAIN.1600x1200_A.1600x1200.jpg",
+                        "title": "Used 2019 Audi RS 3"
+                    }
+                ]
+            },
+            "isHot": false,
+            "isNewlyListed": true,
+            "make": "Audi",
+            "makeCode": "AUDI",
+            "model": "RS 3",
+            "modelCode": "AUDIRS3",
+            "owner": 72771625,
+            "ownerName": "Private Seller",
+            "priceValidUntil": "2021-05-29",
+            "pricingDetail": {
+                "callForPricing": false,
+                "ctaLink": false,
+                "derived": "$57,500",
+                "first": "$57,500",
+                "incentive": 0,
+                "msrp": 0,
+                "noPriceLabel": "Contact Seller For Price",
+                "primary": 57500,
+                "salePrice": 57500,
+                "specialOffers": 0
+            },
+            "priority": "Premium",
+            "productTiles": [
+                {
+                    "cmp": "ec_pa_lgo",
+                    "cprd": "View_CERT",
+                    "epn": "autocheckps",
+                    "image": {
+                        "src": "/content/web/images/na/experian/227917.png",
+                        "title": "View AutoCheck Vehicle History"
+                    },
+                    "link": {
+                        "href": "/redirect/experian_forward.jsp?car_id=552579828&experianPS=true&TRANS=P&SID=ATC2JeckGfBQeyZ0sB",
+                        "label": "View AutoCheck Vehicle History",
+                        "offsite": true,
+                        "partner": true
+                    },
+                    "tileType": "EXPERIAN_APPENDED"
+                }
+            ],
+            "quickViewFeatures": [
+                "Adaptive Cruise Control",
+                "Alarm System",
+                "Blind Spot Alert",
+                "Bluetooth, Hands-Free",
+                "Brake Assist",
+                "Cruise Control",
+                "Fog Lights",
+                "Heated Passenger Seat",
+                "Heated Seats",
+                "Keyless Entry",
+                "Leather Seats",
+                "Navigation System",
+                "Parking assist",
+                "Power Passenger Seat",
+                "Power Windows",
+                "Premium Sound System",
+                "Premium Wheels",
+                "Rear Spoiler",
+                "Rearview Camera",
+                "Satellite Radio",
+                "Side Air Bag",
+                "Sport",
+                "Steering Wheel Controls",
+                "Sunroof"
+            ],
+            "specifications": {
+                "interiorColor": {
+                    "label": "Interior Color",
+                    "value": "Black"
+                },
+                "transmission": {
+                    "label": "Transmission",
+                    "value": "Automatic"
+                },
+                "color": {
+                    "label": "Color",
+                    "value": "Gray"
+                },
+                "mpg": {
+                    "label": "MPG",
+                    "value": "19 City / 28 Highway"
+                },
+                "engine": {
+                    "label": "Engine",
+                    "value": "5-Cylinder Turbo"
+                },
+                "driveType": {
+                    "label": "Drive Type",
+                    "value": "All wheel drive"
+                },
+                "mileage": {
+                    "label": "miles",
+                    "value": "4,350"
+                }
+            },
+            "style": [
+                "Sedan"
+            ],
+            "title": "Used 2019 Audi RS 3",
+            "type": "Used",
+            "vin": "WUABWGFF8KA901192",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=552579828&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50&makeCode1=AUDI&modelCode1=AUDIRS3"
+            },
+            "year": 2019,
+            "zip": "30041"
+        },
+        "552601317": {
+            "accelerate": false,
+            "dealerConfig": {},
+            "description": {
+                "hasMore": true,
+                "label": "A beautiful pristine condition 2011 BMW M3 Sedan.  Fit the whole family to go to church and then take it to the mountains to scream through ..."
+            },
+            "features": [
+                "Bluetooth Hands-Free",
+                "CD Player",
+                "Cruise Control",
+                "Heated Seats",
+                "Keyless Entry",
+                "Leather Seats",
+                "Multi-zone Climate Control",
+                "Navigation",
+                "Power Locks",
+                "Power Windows",
+                "Premium Audio",
+                "Premium Wheels",
+                "Steering Wheel Controls",
+                "Sunroof"
+            ],
+            "fuelType": "Gasoline",
+            "hasSpecialOffer": false,
+            "id": 552601317,
+            "images": {
+                "hasVideoIcon": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "Used 2011 BMW M3 Sedan - 552601317",
+                        "src": "//images.autotrader.com/images/2020/5/29/552/601/43674648239.552601317.IM1.MAIN.1600x1200_A.1600x1067.jpg",
+                        "title": "Used 2011 BMW M3 Sedan"
+                    }
+                ]
+            },
+            "isHot": false,
+            "isNewlyListed": true,
+            "make": "BMW",
+            "makeCode": "BMW",
+            "model": "M3",
+            "modelCode": "M3",
+            "owner": 72771781,
+            "ownerName": "Private Seller",
+            "priceValidUntil": "2021-05-29",
+            "pricingDetail": {
+                "callForPricing": false,
+                "ctaLink": false,
+                "dealIndicator": "Good",
+                "derived": "$20,900",
+                "first": "$20,900",
+                "incentive": 0,
+                "msrp": 0,
+                "noPriceLabel": "Contact Seller For Price",
+                "primary": 20900,
+                "salePrice": 20900,
+                "specialOffers": 0
+            },
+            "priority": "Premium",
+            "productTiles": [
+                {
+                    "cmp": "ec_pa_lgo",
+                    "cprd": "View_CERT",
+                    "epn": "autocheckps",
+                    "image": {
+                        "src": "/content/web/images/na/experian/227917.png",
+                        "title": "View AutoCheck Vehicle History"
+                    },
+                    "link": {
+                        "href": "/redirect/experian_forward.jsp?car_id=552601317&experianPS=true&TRANS=P&SID=ATCYsLYBmMmN2DEjIC",
+                        "label": "View AutoCheck Vehicle History",
+                        "offsite": true,
+                        "partner": true
+                    },
+                    "tileType": "EXPERIAN_APPENDED"
+                }
+            ],
+            "quickViewFeatures": [
+                "Alarm System",
+                "Auxiliary Audio Input",
+                "Bluetooth, Hands-Free",
+                "Brake Assist",
+                "Cruise Control",
+                "HID Headlights",
+                "Heated Passenger Seat",
+                "Heated Seats",
+                "Keyless Entry",
+                "Leather Seats",
+                "Leather Wrapped Steering Wheel",
+                "Navigation System",
+                "Power Passenger Seat",
+                "Power Windows",
+                "Premium Wheels",
+                "Rear Spoiler",
+                "Satellite Radio",
+                "Side Air Bag",
+                "Sport",
+                "Steering Wheel Controls",
+                "Sunroof"
+            ],
+            "specifications": {
+                "interiorColor": {
+                    "label": "Interior Color",
+                    "value": "Tan"
+                },
+                "color": {
+                    "label": "Color",
+                    "value": "White"
+                },
+                "engine": {
+                    "label": "Engine",
+                    "value": "8-Cylinder"
+                },
+                "driveType": {
+                    "label": "Drive Type",
+                    "value": "2 wheel drive - rear"
+                },
+                "mileage": {
+                    "label": "miles",
+                    "value": "84,000"
+                }
+            },
+            "style": [
+                "Sedan"
+            ],
+            "title": "Used 2011 BMW M3 Sedan",
+            "trim": "Sedan",
+            "type": "Used",
+            "vin": "WBSPM9C54BE203180",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=552601317&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50&makeCode1=BMW&modelCode1=M3"
+            },
+            "year": 2011,
+            "zip": "30068"
+        },
+        "552602436": {
+            "accelerate": false,
+            "dealerConfig": {},
+            "description": {
+                "hasMore": true,
+                "label": " You inquired about my car I am selling.  One owner, Service and maintained regularly. Premium color package (Black/Blue metallic) very good..."
+            },
+            "features": [
+                "Backup Camera",
+                "Bluetooth Hands-Free",
+                "CD Player",
+                "Cruise Control",
+                "DVD Player",
+                "Heated Seats",
+                "Keyless Entry",
+                "Leather Seats",
+                "Navigation",
+                "Portable Audio Connection",
+                "Power Locks",
+                "Power Windows",
+                "Premium Audio",
+                "Premium Wheels",
+                "Security System",
+                "Steering Wheel Controls"
+            ],
+            "fuelType": "Flexible Fuel",
+            "hasSpecialOffer": false,
+            "id": 552602436,
+            "images": {
+                "hasVideoIcon": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "Used 2013 Chrysler 300 C - 552602436",
+                        "src": "//images.autotrader.com/images/2020/5/29/552/602/43674650229.552602436.IM1.MAIN.1600x1200_A.1600x1009.jpg",
+                        "title": "Used 2013 Chrysler 300 C"
+                    }
+                ]
+            },
+            "isHot": false,
+            "isNewlyListed": true,
+            "make": "Chrysler",
+            "makeCode": "CHRY",
+            "model": "300",
+            "modelCode": "300",
+            "owner": 72771825,
+            "ownerName": "Private Seller",
+            "priceValidUntil": "2021-05-29",
+            "pricingDetail": {
+                "callForPricing": false,
+                "ctaLink": false,
+                "dealIndicator": "Good",
+                "derived": "$8,900",
+                "first": "$8,900",
+                "incentive": 0,
+                "msrp": 0,
+                "noPriceLabel": "Contact Seller For Price",
+                "primary": 8900,
+                "salePrice": 8900,
+                "specialOffers": 0
+            },
+            "priority": "Premium",
+            "productTiles": [
+                {
+                    "cmp": "ec_pa_lgo",
+                    "cprd": "View_CERT",
+                    "epn": "autocheckps",
+                    "image": {
+                        "src": "/content/web/images/na/experian/227917.png",
+                        "title": "View AutoCheck Vehicle History"
+                    },
+                    "link": {
+                        "href": "/redirect/experian_forward.jsp?car_id=552602436&experianPS=true&TRANS=P&SID=ATCrtvrsOsfNZsjJ0f",
+                        "label": "View AutoCheck Vehicle History",
+                        "offsite": true,
+                        "partner": true
+                    },
+                    "tileType": "EXPERIAN_APPENDED"
+                }
+            ],
+            "quickViewFeatures": [
+                "Alarm System",
+                "Auxiliary Audio Input",
+                "Bluetooth, Hands-Free",
+                "Brake Assist",
+                "Cooled Seats",
+                "Cruise Control",
+                "DVD Player",
+                "Fog Lights",
+                "Fullsize",
+                "Heated Passenger Seat",
+                "Heated Seats",
+                "Keyless Entry",
+                "Leather Seats",
+                "Leather Wrapped Steering Wheel",
+                "Navigation System",
+                "Power Passenger Seat",
+                "Power Windows",
+                "Premium Sound System",
+                "Premium Wheels",
+                "Rear Heated Seats",
+                "Rearview Camera",
+                "Remote Engine Start",
+                "Satellite Radio",
+                "Side Air Bag",
+                "Steering Wheel Controls"
+            ],
+            "specifications": {
+                "interiorColor": {
+                    "label": "Interior Color",
+                    "value": "Tan"
+                },
+                "transmission": {
+                    "label": "Transmission",
+                    "value": "Automatic"
+                },
+                "color": {
+                    "label": "Color",
+                    "value": "Blue"
+                },
+                "mpg": {
+                    "label": "MPG",
+                    "value": "19 City / 31 Highway"
+                },
+                "engine": {
+                    "label": "Engine",
+                    "value": "6-Cylinder"
+                },
+                "driveType": {
+                    "label": "Drive Type",
+                    "value": "2 wheel drive - rear"
+                },
+                "mileage": {
+                    "label": "miles",
+                    "value": "96,000"
+                }
+            },
+            "style": [
+                "Sedan"
+            ],
+            "title": "Used 2013 Chrysler 300 C",
+            "trim": "C",
+            "type": "Used",
+            "vin": "2C3CCAEG6DH699365",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=552602436&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50&makeCode1=CHRY&modelCode1=300"
+            },
+            "year": 2013,
+            "zip": "30022"
+        },
+        "552762153": {
+            "accelerate": false,
+            "dealerConfig": {},
+            "description": {
+                "hasMore": true,
+                "label": "Includes Full Self Driving Auto-Pilot. This is a $7,000 option that will increase to $8,000 in July. Autopilot is Amazing! The car drives it..."
+            },
+            "features": [
+                "Backup Camera",
+                "Bluetooth Hands-Free",
+                "Cruise Control",
+                "Heated Seats",
+                "Keyless Entry",
+                "Leather Seats",
+                "Multi-zone Climate Control",
+                "Navigation",
+                "Power Locks",
+                "Power Windows",
+                "Premium Audio",
+                "Premium Wheels",
+                "Security System",
+                "Steering Wheel Controls",
+                "Sunroof"
+            ],
+            "fuelType": "Electric",
+            "hasSpecialOffer": false,
+            "id": 552762153,
+            "images": {
+                "hasVideoIcon": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "Used 2018 Tesla Model 3 - 552762153",
+                        "src": "//images.autotrader.com/images/2020/5/30/552/762/43674732518.552762153.IM1.MAIN.1600x1200_A.620x379.jpg",
+                        "title": "Used 2018 Tesla Model 3"
+                    }
+                ]
+            },
+            "isHot": false,
+            "isNewlyListed": true,
+            "make": "Tesla",
+            "makeCode": "TESLA",
+            "model": "Model 3",
+            "modelCode": "TESMOD3",
+            "owner": 72773913,
+            "ownerName": "Private Seller",
+            "priceValidUntil": "2021-05-30",
+            "pricingDetail": {
+                "callForPricing": false,
+                "ctaLink": false,
+                "dealIndicator": "Great",
+                "derived": "$44,811",
+                "first": "$44,811",
+                "incentive": 0,
+                "msrp": 0,
+                "noPriceLabel": "Contact Seller For Price",
+                "primary": 44811,
+                "salePrice": 44811,
+                "specialOffers": 0
+            },
+            "priority": "Premium",
+            "productTiles": [
+                {
+                    "cmp": "ec_pa_lgo",
+                    "cprd": "View_CERT",
+                    "epn": "autocheckps",
+                    "image": {
+                        "src": "/content/web/images/na/experian/227917.png",
+                        "title": "View AutoCheck Vehicle History"
+                    },
+                    "link": {
+                        "href": "/redirect/experian_forward.jsp?car_id=552762153&experianPS=true&TRANS=P&SID=ATCE4xnb2Nt2PGgLce",
+                        "label": "View AutoCheck Vehicle History",
+                        "offsite": true,
+                        "partner": true
+                    },
+                    "tileType": "EXPERIAN_APPENDED"
+                }
+            ],
+            "quickViewFeatures": [
+                "Alarm System",
+                "Blind Spot Alert",
+                "Bluetooth, Hands-Free",
+                "Brake Assist",
+                "Collision Warning",
+                "Cruise Control",
+                "Fog Lights",
+                "Heated Passenger Seat",
+                "Heated Seats",
+                "Keyless Entry",
+                "Leather Seats",
+                "Leather Wrapped Steering Wheel",
+                "Navigation System",
+                "Parking assist",
+                "Power Passenger Seat",
+                "Power Windows",
+                "Premium Sound System",
+                "Premium Wheels",
+                "Rear Heated Seats",
+                "Rearview Camera",
+                "Side Air Bag",
+                "Steering Wheel Controls",
+                "Sunroof"
+            ],
+            "specifications": {
+                "interiorColor": {
+                    "label": "Interior Color",
+                    "value": "Black"
+                },
+                "mileRange": {
+                    "label": "Mile Range",
+                    "value": "310 Mile Range"
+                },
+                "transmission": {
+                    "label": "Transmission",
+                    "value": "Single-Speed"
+                },
+                "color": {
+                    "label": "Color",
+                    "value": "Silver"
+                },
+                "engine": {
+                    "label": "Engine",
+                    "value": "Electric"
+                },
+                "driveType": {
+                    "label": "Drive Type",
+                    "value": "All wheel drive"
+                },
+                "mileage": {
+                    "label": "miles",
+                    "value": "19,750"
+                }
+            },
+            "style": [
+                "Sedan"
+            ],
+            "title": "Used 2018 Tesla Model 3",
+            "type": "Used",
+            "vin": "5YJ3E1EBXJF086984",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=552762153&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50&makeCode1=TESLA&modelCode1=TESMOD3"
+            },
+            "year": 2018,
+            "zip": "30327"
+        },
+        "552835613": {
+            "accelerate": false,
+            "dealerConfig": {},
+            "description": {
+                "hasMore": true,
+                "label": "Selling our low mileage 2013 Ford Edge SEL to make room in the garage for a minivan. Great condition, regularly maintained, with tons of fea..."
+            },
+            "features": [
+                "Backup Camera",
+                "Bluetooth Hands-Free",
+                "CD Player",
+                "Cruise Control",
+                "Heated Seats",
+                "Keyless Entry",
+                "Leather Seats",
+                "Multi-zone Climate Control",
+                "Navigation",
+                "Power Locks",
+                "Power Windows",
+                "Premium Wheels",
+                "Security System",
+                "Steering Wheel Controls"
+            ],
+            "fuelType": "Gasoline",
+            "hasSpecialOffer": false,
+            "id": 552835613,
+            "images": {
+                "hasVideoIcon": false,
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "Used 2013 Ford Edge FWD SEL - 552835613",
+                        "src": "//images.autotrader.com/images/2020/6/1/552/835/43674781602.552835613.IM1.MAIN.1600x1200_A.1600x1200.jpg",
+                        "title": "Used 2013 Ford Edge FWD SEL"
+                    }
+                ]
+            },
+            "isHot": false,
+            "isNewlyListed": true,
+            "make": "Ford",
+            "makeCode": "FORD",
+            "model": "Edge",
+            "modelCode": "EDGE",
+            "owner": 72775577,
+            "ownerName": "Private Seller",
+            "priceValidUntil": "2021-06-01",
+            "pricingDetail": {
+                "callForPricing": false,
+                "ctaLink": false,
+                "dealIndicator": "Good",
+                "derived": "$11,550",
+                "first": "$11,550",
+                "incentive": 0,
+                "msrp": 0,
+                "noPriceLabel": "Contact Seller For Price",
+                "primary": 11550,
+                "salePrice": 11550,
+                "specialOffers": 0
+            },
+            "priority": "Premium",
+            "productTiles": [
+                {
+                    "cmp": "ec_pa_lgo",
+                    "cprd": "View_CERT",
+                    "epn": "autocheckps",
+                    "image": {
+                        "src": "/content/web/images/na/experian/227917.png",
+                        "title": "View AutoCheck Vehicle History"
+                    },
+                    "link": {
+                        "href": "/redirect/experian_forward.jsp?car_id=552835613&experianPS=true&TRANS=P&SID=ATCG7JRaYf0yPSehJk",
+                        "label": "View AutoCheck Vehicle History",
+                        "offsite": true,
+                        "partner": true
+                    },
+                    "tileType": "EXPERIAN_APPENDED"
+                }
+            ],
+            "quickViewFeatures": [
+                "Midsize"
+            ],
+            "specifications": {
+                "interiorColor": {
+                    "label": "Interior Color",
+                    "value": "Gray"
+                },
+                "transmission": {
+                    "label": "Transmission",
+                    "value": "Automatic"
+                },
+                "color": {
+                    "label": "Color",
+                    "value": "Gray"
+                },
+                "mpg": {
+                    "label": "MPG",
+                    "value": "19 City / 27 Highway"
+                },
+                "engine": {
+                    "label": "Engine",
+                    "value": "6-Cylinder"
+                },
+                "driveType": {
+                    "label": "Drive Type",
+                    "value": "2 wheel drive - front"
+                },
+                "mileage": {
+                    "label": "miles",
+                    "value": "57,771"
+                }
+            },
+            "style": [
+                "Sport Utility"
+            ],
+            "title": "Used 2013 Ford Edge FWD SEL",
+            "trim": "FWD SEL",
+            "type": "Used",
+            "vin": "2FMDK3JC8DBC95063",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=552835613&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50&makeCode1=FORD&modelCode1=EDGE"
+            },
+            "year": 2013,
+            "zip": "30092"
+        },
+        "552839546": {
+            "accelerate": false,
+            "dealerConfig": {},
+            "fuelType": "Gasoline",
+            "hasSpecialOffer": false,
+            "id": 552839546,
+            "images": {
+                "primary": 0,
+                "sources": [
+                    {
+                        "alt": "Used 2014 Mercedes-Benz E 350 Sedan - 552839546",
+                        "src": "https://images.autotrader.com/images/2020/6/1/552/839/43674785200.552839546.IM1.MAIN.1600x1200_A.1555x1037.jpg",
+                        "title": "Used 2014 Mercedes-Benz E 350 Sedan"
+                    }
+                ]
+            },
+            "isHot": false,
+            "isNewlyListed": true,
+            "isReducedPrice": false,
+            "make": "Mercedes-Benz",
+            "makeCode": "MB",
+            "model": "E 350",
+            "modelCode": "E350",
+            "owner": 72775707,
+            "ownerName": "Private Seller",
+            "priceValidUntil": "2021-06-01",
+            "pricingDetail": {
+                "noPriceLabel": "Contact Seller For Price",
+                "salePrice": 18950
+            },
+            "quickViewFeatures": [
+                "Luxury"
+            ],
+            "specifications": {
+                "color": {
+                    "label": "Color",
+                    "value": "White"
+                },
+                "mpg": {
+                    "label": "MPG",
+                    "value": "21 City / 30 Highway"
+                },
+                "engine": {
+                    "label": "Engine",
+                    "value": "6-Cylinder"
+                },
+                "driveType": {
+                    "label": "Drive Type",
+                    "value": "2 wheel drive - rear"
+                },
+                "mileage": {
+                    "label": "miles",
+                    "value": "59,018"
+                }
+            },
+            "style": [
+                "Sedan"
+            ],
+            "title": "Used 2014 Mercedes-Benz E 350 Sedan",
+            "trim": "Sedan",
+            "type": "USED",
+            "vin": "WDDHF5KB1EB015198",
+            "website": {
+                "href": "/cars-for-sale/vehicledetails.xhtml?listingId=552839546&zip=30097&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D30097%26city%3DDuluth%26startYear%3D2008%26maxMileage%3D100000%26incremental%3Dall%26sellerTypes%3Dp%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26state%3DGA%26firstRecord%3D0%26marketExtension%3Dinclude%26searchRadius%3D50%26isNewSearch%3Dtrue&sellerTypes=p&startYear=2008&numRecords=25&firstRecord=0&searchRadius=50"
+            },
+            "year": 2014,
+            "birf": {
+                "isPhotoAvailable": "y",
+                "make": "MB",
+                "model": "E350",
+                "spotlightId": "0",
+                "spotlightType": "P"
+            },
+            "spotlightType": "LISTING"
+        }
+    }
+]
